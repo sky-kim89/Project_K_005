@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_grom
+  m_EditorClassIdentifier: 
+  Id: grom
+  DisplayName: "\uADF8\uB86C"
+  Template: {fileID: 11400000, guid: b921e6142311f244290163c94e1e24bb, type: 2}
+  Race: {fileID: 11400000, guid: 8adb698eb1918454887fa5719c2fdbb6, type: 2}
+  PriceShift: 0
+  Rarity: 0
+  Founder: 0
+  Title: "\uBA39\uBCF4"
+  Concept: "\uBA39\uB294 \uB9CC\uD07C \uD798\uC774 \uB0A9\uB2C8\uB2E4."
+  Up: 17
+  Down: 18
+  Stats: []
+  Growth: []
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: 3b320e7119fc33c49896531095b2c019, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 9fa66697ea86f0f43a290e2f3dd2bbd8, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair5#B8C8F8
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

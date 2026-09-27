@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_aegis
+  m_EditorClassIdentifier: 
+  Id: aegis
+  DisplayName: "\uC544\uC774\uAE30\uC2A4"
+  Template: {fileID: 11400000, guid: d63dc6af758ef7148951ff90d15bef71, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uC131\uBCBD\uC758 \uB9F9\uC138"
+  Concept: "\uACC1\uC758 \uB3D9\uB8CC\uAC00 \uBC1B\uB294 \uC0C1\uCC98\uB97C \uB298
+    \uB098\uB220 \uC9CA\uC5B4\uC9D1\uB2C8\uB2E4."
+  Up: 20
+  Down: 21
+  Stats:
+  - Stat: 17
+    Value: 4
+  - Stat: 20
+    Value: 4
+  - Stat: 16
+    Value: 1
+  Growth:
+  - Stat: 17
+    Value: 1
+  - Stat: 20
+    Value: 2
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: afa104dd7f61d4d4eb4f53b492990706, type: 2}
+  - {fileID: 11400000, guid: 1711c2a40a603c64cbf89bf99f1f79b0, type: 2}
+  - {fileID: 11400000, guid: 5d72829a86ea31b42922012aa14c2ae6, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 3e0f44eaf6d2baa4f9c6892b4d870c70, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair14#5D2C28
+    Horns: 
+    Armor: CaptainArmor
+    Helmet: 
+    Mask: 
+    Cape: Cape#F0E8D0
+    Weapon: 
+    Shield: 

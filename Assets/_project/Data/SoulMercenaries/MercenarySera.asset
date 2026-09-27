@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a1fc967e7ae4e6468a9a473a2873acf, type: 3}
+  m_Name: MercenarySera
+  m_EditorClassIdentifier: 
+  Id: sera
+  DisplayName: "\uC138\uB77C"
+  Race: {fileID: 11400000, guid: 7c4eaeaed77cbab45894055079391426, type: 2}
+  BaseStats:
+  - Stat: 16
+    Value: 2
+  - Stat: 17
+    Value: 4
+  - Stat: 18
+    Value: 4
+  - Stat: 19
+    Value: 6
+  - Stat: 20
+    Value: 4
+  - Stat: 24
+    Value: 2
+  - Stat: 25
+    Value: 3
+  StartingEquipment:
+  - {fileID: 11400000, guid: c89becb79c89f4d49ba0c39ce8577bf8, type: 2}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair9#E6E0C8
+    Horns: 
+    Armor: BlueWizardTunic
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  Job: "\uB9C8\uBC95\uC0AC"
+  Role: 2
+  Passives:
+  - {fileID: 11400000, guid: 4a6f028b296e2b3499e627ad65db5e7c, type: 2}
+  - {fileID: 11400000, guid: 08ad541f28dcdd24fbc85b1228947c6b, type: 2}
+  GrowthWeights:
+  - Stat: 19
+    Value: 3
+  - Stat: 25
+    Value: 2
+  - Stat: 24
+    Value: 1
+  WeakGrowth: 100000001a0000001b0000001c000000
+  Patterns:
+  - {fileID: 11400000, guid: 4f6f2097273aaa049b6ecb353986e66b, type: 2}
+  - {fileID: 11400000, guid: fea607a9c839ff34385b79282a55f86b, type: 2}
+  - {fileID: 11400000, guid: d289f7c360703564bb04259422e82202, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: d9f7f5380f2212b4d82683c1bc36fa85, type: 2}
+  - {fileID: 11400000, guid: 710d3d120eecfb048a8b820e99d72169, type: 2}
+  - {fileID: 11400000, guid: 7d0f9104203216146998f9ec4dc73316, type: 2}
+  - {fileID: 11400000, guid: fdc511e1ae781974d953cac50e763fff, type: 2}
+  - {fileID: 11400000, guid: a1bd4a3840787dc4ebe63ec6c168a8eb, type: 2}
+  - {fileID: 11400000, guid: 649a4903730299245a4f7c8849a1a7be, type: 2}
+  - {fileID: 11400000, guid: 67f05177018448d418231c0847cbdac5, type: 2}

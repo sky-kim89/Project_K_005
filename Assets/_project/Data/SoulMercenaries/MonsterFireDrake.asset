@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67deb1c9581b9434bb20a2fa0ee4e38e, type: 3}
+  m_Name: MonsterFireDrake
+  m_EditorClassIdentifier: 
+  Id: "\uD654\uC5FC \uB4DC\uB77C\uCF54"
+  Stats:
+  - Stat: 17
+    Value: 140
+  - Stat: 16
+    Value: 16
+  - Stat: 23
+    Value: 10
+  - Stat: 27
+    Value: 8
+  - Stat: 20
+    Value: 12
+  - Stat: 49
+    Value: 2.5
+  Patterns:
+  - {fileID: 11400000, guid: be93bfabd595eb049ba3346500ad6d5a, type: 2}
+  - {fileID: 11400000, guid: adb9fc7e20528e94887f361315f3bdf3, type: 2}
+  - {fileID: 11400000, guid: 3f7c4408278b39741be9ed1c2d687090, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: 5e10293d8ec4eb34f9b05fa7852eab92, type: 2}
+  - {fileID: 11400000, guid: 719c872c417402043a1d40345b93d0c0, type: 2}
+  Passives: []
+  Height: 2.7
+  Weight: 250
+  Experience: 30
+  Gold: 40
+  SoulDropChance: 0.4
+  DroppedSoul: {fileID: 11400000, guid: 003512708f302ec48908e59f433bdead, type: 2}
+  Guardian: 1
+  Elite: 0
+  Evasive: 0
+  Undead: 0
+  Telegraphs:
+  - {fileID: 11400000, guid: c2ddc7948e3b9464fa4339dd6dde6f0a, type: 2}
+  - {fileID: 11400000, guid: 8b5b30e65089d58458dfa228bedc3cba, type: 2}
+  - {fileID: 11400000, guid: 2be31bea5ba85e040bf001d24b85761a, type: 2}
+  - {fileID: 11400000, guid: b94f6c123c8de9349aa029583d6dd03e, type: 2}
+  DisplayName: "\uD654\uC5FC \uB4DC\uB77C\uCF54"
+  UseMonsterSprite: 0
+  MonsterRace: 16
+  Appearance:
+    Body: Drakosha
+    Head: Drakosha
+    Ears: 
+    Eyes: Drakosha
+    Hair: 
+    Armor: FireWarriorArmor
+    Helmet: 
+    Mask: 
+    Horns: Drakosha
+    Cape: 
+    Weapon: FireSword
+    Shield: 
+    Back: 
+    Firearm: 
+  Tint: {r: 1, g: 0.75, b: 0.7, a: 1}
+  Portrait: {fileID: 515130527389888433, guid: c0641e628e7e9164e8cc2ed024df6ce2, type: 3}

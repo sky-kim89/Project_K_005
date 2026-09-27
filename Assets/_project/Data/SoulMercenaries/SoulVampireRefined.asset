@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulVampireRefined
+  m_EditorClassIdentifier: 
+  Id: vampire_refined
+  OriginMonster: "\uD761\uD608\uADC0(\uC815\uC81C)"
+  Source: {fileID: 11400000, guid: af04b41846a4214479c064a7d96c269f, type: 2}
+  Grade: 2
+  CharacteristicStats:
+  - Stat: 18
+    Value: 3
+  Patterns: []
+  ActiveSkills:
+  - {fileID: 11400000, guid: 9e62408ea2a11b842bd3825445cf3a4d, type: 2}
+  - {fileID: 11400000, guid: 41f9e531c412acc49acc0dc62a534bfa, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: a1a7a5996c34ba04ea1ad465ad6f6cf4, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 0}

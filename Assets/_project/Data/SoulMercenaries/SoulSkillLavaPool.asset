@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f20b8e9f122e64993b922e75eb9293, type: 3}
+  m_Name: SoulSkillLavaPool
+  m_EditorClassIdentifier: 
+  SkillName: "\uC6A9\uC554 \uC6C5\uB369\uC774"
+  Description: "\uB300\uC0C1 \uC9C0\uC810\uC744 \uB179\uC5EC \uC6A9\uC554 \uC6C5\uB369\uC774\uB97C
+    \uB9CC\uB4ED\uB2C8\uB2E4."
+  Cooldown: 14
+  SoulId: soul_lava_pool
+  Trigger: 3
+  RequiredPattern: {fileID: 0}
+  Costs:
+  - Resource: 1
+    Amount: 18
+  DamageSchool: 1
+  DamageKind: 5
+  Damage:
+    Flat: 4
+    Terms:
+    - Stat: 19
+      Factor: 0.45
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  HealsWounds: 0
+  Barrier:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  SpiritLook: 
+  SpiritInterval: 1.2
+  WoundChance:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  RequiredJob: 
+  Imbue:
+    Kind: 0
+    Chance:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 1
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+  ReviveRatio: 0
+  BookTier: 1
+  UpgradeTo: {fileID: 0}
+  Chance:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Radius:
+    Flat: 2
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Duration:
+    Flat: 8
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Knockback: 0
+  Range: 5
+  CastTime: 1.2
+  Status:
+    Kind: 3
+    Chance:
+      Flat: 0.5
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 3
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 2
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 1
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+  Icon: {fileID: 21300000, guid: 383f563dcf6952548a4243790d6906f3, type: 3}
+  SelfBuffs: []
+  Technique: 0
+  ExecuteBelow: 0
+  DrainMana: 0
+  Line: 0
+  Chain: 0
+  Field: 4
+  GuardShare: 0
+  Cleanse: 0
+  HpCost: 0
+  Shortcut: 0
+  Instant: 1
+  AtTarget: 1
+  Width: 0
+  Pull: 0
+  Drain: 0
+  Sap: 0
+  Steal: 0
+  Dispel: 0
+  Behind: 0
+  Retreat: 0
+  Extra:
+    Kind: 0
+    Chance:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 1
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+  Burst: 0
+  Mass: 0
+  OncePerFloor: 0
+  LeapToTarget: 0
+  WeightThreshold: 0

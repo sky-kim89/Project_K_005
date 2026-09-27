@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19972297e4283214d9a7c2f23716ee12, type: 3}
+  m_Name: EquipmentGuardianBlade
+  m_EditorClassIdentifier: 
+  Id: guardian_blade
+  DisplayName: "\uC218\uD638\uC790\uC758 \uB300\uAC80"
+  Kind: "\uC591\uC190\uAC80"
+  Slot: 0
+  TwoHanded: 1
+  WeaponTag: sword
+  BaseWeight: 6.5
+  Material: 8
+  Unique: 1
+  FixedGrade: 5
+  Price: 900
+  ShopTier: 0
+  DropFloor: 1
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: GiantBlade
+    Shield: 
+  Icon: {fileID: 21300000, guid: 1a007c763a121394383a52f44da466e0, type: 3}
+  BasicAttack: {fileID: 11400000, guid: 92ca46cd9e7ebc546b2291e8e91c632e, type: 2}
+  Bonuses:
+  - Stat: 2
+    Value: 12
+  - Stat: 16
+    Value: 4
+  - Stat: 26
+    Value: 2
+  Patterns: []
+  ActiveSkills: []
+  Passives: []

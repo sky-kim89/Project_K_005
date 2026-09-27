@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulOrc
+  m_EditorClassIdentifier: 
+  Id: orc
+  OriginMonster: "\uC624\uD06C"
+  Source: {fileID: 11400000, guid: 178cd13b3fe8c2c40b16db2806118902, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 16
+    Value: 2
+  - Stat: 17
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: eb3cf0d962cd75d4c806681c228a4ac0, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: 4dd72420e7cb84c49827439e98a72af7, type: 2}
+  - {fileID: 11400000, guid: 54cdd1b5025abd64983129ef61be3897, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: d21a0bd73a92fc545baa7ed2baf3318a, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1.05
+  WeightMultiplier: 1.15
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 11400000, guid: 203f4f27351b5e444b33e090163c8971, type: 2}

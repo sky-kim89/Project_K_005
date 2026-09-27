@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2059dbcade6e660458581368c2f38641, type: 3}
+  m_Name: PassiveSig_asha
+  m_EditorClassIdentifier: 
+  SkillName: "\uAE09\uC18C \uC0AC\uB0E5"
+  Description: "HP 35% \uBBF8\uB9CC \uC801\uC5D0\uAC8C \uADFC\uC811 \uD53C\uD574\uAC00
+    30%, \uC5D8\uB9AC\uD2B8\xB7\uBCF4\uC2A4\uC5D0\uAC8C \uD53C\uD574\uAC00 10% \uB298\uC5B4\uB0A9\uB2C8\uB2E4."
+  Icon: {fileID: 21300000, guid: 00c507b373e4ce74896f79f7bad43977, type: 3}
+  SoulId: sig_asha
+  SoulEvent: 0
+  Every: 1
+  AlwaysBonuses:
+  - Stat: 51
+    Value: 0.3
+  - Stat: 71
+    Value: 0.1
+  Damage:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Stamina: 0
+  MapTraits: 0

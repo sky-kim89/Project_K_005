@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_ian
+  m_EditorClassIdentifier: 
+  Id: ian
+  DisplayName: "\uC774\uC548"
+  Template: {fileID: 11400000, guid: 2a23312e9c3673e4fb10d2d73eb6b752, type: 2}
+  Race: {fileID: 11400000, guid: 7c4eaeaed77cbab45894055079391426, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uBC14\uB78C\uAC80"
+  Concept: "\uBC14\uB78C\uCC98\uB7FC \uCE58\uACE0 \uBE60\uC9D1\uB2C8\uB2E4."
+  Up: 18
+  Down: 17
+  Stats:
+  - Stat: 18
+    Value: 4
+  - Stat: 21
+    Value: 1
+  - Stat: 16
+    Value: -1
+  Growth:
+  - Stat: 18
+    Value: 2
+  Patterns:
+  - {fileID: 11400000, guid: 2e8b942a5b084e04ca04f1cbb6029672, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: 2df90669a0d8da9438af9281f085c6c1, type: 2}
+  - {fileID: 11400000, guid: d5038cb3f0015154485406ab67ae2028, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: bf864f8833d6f374a9bfbc3109f3a233, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair15#D8B25A
+    Horns: 
+    Armor: CaptainArmor
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

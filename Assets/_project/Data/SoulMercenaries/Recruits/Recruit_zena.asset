@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_zena
+  m_EditorClassIdentifier: 
+  Id: zena
+  DisplayName: "\uC81C\uB098"
+  Template: {fileID: 11400000, guid: b921e6142311f244290163c94e1e24bb, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uAC80\uD22C\uC0AC"
+  Concept: "\uAD00\uC911\uC774 \uB9CE\uC744\uC218\uB85D, \uC801\uC774 \uB9CE\uC744\uC218\uB85D
+    \uC2E0\uC774 \uB0A9\uB2C8\uB2E4."
+  Up: 16
+  Down: 21
+  Stats:
+  - Stat: 16
+    Value: 3
+  - Stat: 17
+    Value: 2
+  - Stat: 21
+    Value: -1
+  Growth:
+  - Stat: 16
+    Value: 2
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: 3b320e7119fc33c49896531095b2c019, type: 2}
+  - {fileID: 11400000, guid: 2df90669a0d8da9438af9281f085c6c1, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 895b1ea787c45324d906f5b8913f1750, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair13#4E6E3A
+    Horns: 
+    Armor: Chief
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

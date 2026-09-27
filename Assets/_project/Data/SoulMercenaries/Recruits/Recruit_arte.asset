@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_arte
+  m_EditorClassIdentifier: 
+  Id: arte
+  DisplayName: "\uC544\uB974\uD14C"
+  Template: {fileID: 11400000, guid: 2a23312e9c3673e4fb10d2d73eb6b752, type: 2}
+  Race: {fileID: 11400000, guid: 7c4eaeaed77cbab45894055079391426, type: 2}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uC6D4\uAD11\uAC80"
+  Concept: "\uBE5B \uC5C6\uB294 \uACF3\uC5D0\uC11C \uB354 \uB0A0\uCE74\uB85C\uC6CC\uC9C0\uB294
+    \uAC80."
+  Up: 18
+  Down: 17
+  Stats:
+  - Stat: 18
+    Value: 4
+  - Stat: 16
+    Value: 3
+  - Stat: 20
+    Value: 2
+  - Stat: 21
+    Value: 1
+  Growth:
+  - Stat: 18
+    Value: 2
+  - Stat: 16
+    Value: 1
+  - Stat: 20
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 2c4bd9b024d08424990afbce6ef51c3d, type: 2}
+  - {fileID: 11400000, guid: d8dc64d6b28d4eb46877ddf34c90d3e2, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: 2df90669a0d8da9438af9281f085c6c1, type: 2}
+  - {fileID: 11400000, guid: d5038cb3f0015154485406ab67ae2028, type: 2}
+  - {fileID: 11400000, guid: fbd87e7c6ad518740b1becad9ce1ab04, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 6a2ce5f0120ea4c4d90ca9dfedfd9a31, type: 2}
+  - {fileID: 11400000, guid: 69c2668289d359c4e94fb666073f70e1, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair11#7C7C84
+    Horns: 
+    Armor: TournamentArmor
+    Helmet: 
+    Mask: 
+    Cape: Cape#F0E8D0
+    Weapon: 
+    Shield: 

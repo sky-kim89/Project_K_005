@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_crow
+  m_EditorClassIdentifier: 
+  Id: crow
+  DisplayName: "\uD06C\uB85C\uC6B0"
+  Template: {fileID: 11400000, guid: 2c6fa7b3892afbf4995457e6f7b071a7, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uADF8\uB9BC\uC790 \uCD94\uC801\uC790"
+  Concept: "\uBCF4\uC774\uC9C0 \uC54A\uB294 \uACF3\uC5D0\uC11C \uBAA9\uC744 \uB178\uB9BD\uB2C8\uB2E4."
+  Up: 18
+  Down: 17
+  Stats:
+  - Stat: 18
+    Value: 4
+  - Stat: 21
+    Value: 3
+  - Stat: 16
+    Value: 3
+  Growth:
+  - Stat: 18
+    Value: 2
+  - Stat: 16
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 5a1a72eb736b2184a89494e0e07033ed, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: f9e431770af5afc47a3055ea39b8b2a8, type: 2}
+  - {fileID: 11400000, guid: f6582247119901043a430deea351dcae, type: 2}
+  - {fileID: 11400000, guid: 24e3a3221ab80e74fa7ed09f51646403, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: dd67cb39120b60142b31f61e1af72017, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair11#B8C8F8
+    Horns: 
+    Armor: PirateCostume
+    Helmet: 
+    Mask: 
+    Cape: Cape#2E3E6E
+    Weapon: 
+    Shield: 

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2059dbcade6e660458581368c2f38641, type: 3}
+  m_Name: PassiveSig_seraphin
+  m_EditorClassIdentifier: 
+  SkillName: "\uC804\uD22C \uAE30\uB3C4"
+  Description: "4\uCE78 \uC548\uC758 \uB3D9\uB8CC HP \uC7AC\uC0DD\uC774 1.5 \uC624\uB974\uACE0
+    \uC900 \uD53C\uD574\uC758 5%\uB97C \uD761\uD608\uD569\uB2C8\uB2E4."
+  Icon: {fileID: 21300000, guid: 29c71f0d0b085834dae83e799c5a4266, type: 3}
+  SoulId: sig_seraphin
+  SoulEvent: 0
+  Every: 1
+  AlwaysBonuses:
+  - Stat: 90
+    Value: 1.5
+  - Stat: 69
+    Value: 0.05
+  Damage:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Stamina: 0
+  MapTraits: 0

@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f20b8e9f122e64993b922e75eb9293, type: 3}
+  m_Name: SoulSkillBeastformRefined
+  m_EditorClassIdentifier: 
+  SkillName: "\uC57C\uC218\uD654 (\uC815\uC81C)"
+  Description: "\uB2EC\uC758 \uD53C\uAC00 \uAE68\uC5B4\uB098 \uD55C\uB3D9\uC548 \uC9D0\uC2B9\uC774
+    \uB429\uB2C8\uB2E4. (\uC11C\uACE0\uC5D0\uC11C \uAC15\uD654\uB41C \uC0C1\uC704
+    \uC2A4\uD0AC)"
+  Cooldown: 36
+  SoulId: soul_beastform_plus
+  Trigger: 3
+  RequiredPattern: {fileID: 0}
+  Costs:
+  - Resource: 0
+    Amount: 12
+  DamageSchool: 0
+  DamageKind: 1
+  Damage:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  HealsWounds: 0
+  Barrier:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  SpiritLook: 
+  SpiritInterval: 1.2
+  WoundChance:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  RequiredJob: 
+  Imbue:
+    Kind: 0
+    Chance:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 1
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+  ReviveRatio: 0
+  BookTier: 1
+  UpgradeTo: {fileID: 0}
+  Chance:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Radius:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Duration:
+    Flat: 25
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Knockback: 0
+  Range: 3
+  CastTime: 0.6
+  Status:
+    Kind: 0
+    Chance:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 2
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+  Icon: {fileID: 21300000, guid: 9df72aef1038fad478b2d8e958f53a88, type: 3}
+  SelfBuffs:
+  - Stat: 2
+    Amount:
+      Flat: 9
+      Terms:
+      - Stat: 16
+        Factor: 0.45000002
+      Minimum: -1e+9
+      Maximum: 1e+9
+  - Stat: 39
+    Amount:
+      Flat: 0.22500001
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+  - Stat: 34
+    Amount:
+      Flat: 4.5
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+  Technique: 0
+  ExecuteBelow: 0
+  DrainMana: 0
+  Line: 0
+  Chain: 0
+  Field: 0
+  GuardShare: 0
+  Cleanse: 0
+  HpCost: 0
+  Shortcut: 0
+  Instant: 0
+  AtTarget: 0
+  Width: 0
+  Pull: 0
+  Drain: 0
+  Sap: 0
+  Steal: 0
+  Dispel: 0
+  Behind: 0
+  Retreat: 0
+  Extra:
+    Kind: 0
+    Chance:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 1
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+  Burst: 0
+  Mass: 0
+  OncePerFloor: 0
+  LeapToTarget: 0
+  WeightThreshold: 0

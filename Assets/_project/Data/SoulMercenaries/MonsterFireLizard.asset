@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67deb1c9581b9434bb20a2fa0ee4e38e, type: 3}
+  m_Name: MonsterFireLizard
+  m_EditorClassIdentifier: 
+  Id: "\uBD88\uB3C4\uB9C8\uBC40"
+  Stats:
+  - Stat: 17
+    Value: 7
+  - Stat: 16
+    Value: 6
+  - Stat: 18
+    Value: 3
+  - Stat: 23
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: be93bfabd595eb049ba3346500ad6d5a, type: 2}
+  - {fileID: 11400000, guid: adb9fc7e20528e94887f361315f3bdf3, type: 2}
+  - {fileID: 11400000, guid: 3f7c4408278b39741be9ed1c2d687090, type: 2}
+  ActiveSkills: []
+  Passives: []
+  Height: 1.6
+  Weight: 75
+  Experience: 8
+  Gold: 5
+  SoulDropChance: 0.02
+  DroppedSoul: {fileID: 11400000, guid: 5a8b0292be576d347bbc85da14af14d3, type: 2}
+  Guardian: 0
+  Elite: 0
+  Evasive: 0
+  Undead: 0
+  Telegraphs: []
+  DisplayName: "\uBD88\uB3C4\uB9C8\uBC40"
+  UseMonsterSprite: 0
+  MonsterRace: 16
+  Appearance:
+    Body: FireLizard
+    Head: FireLizard
+    Ears: 
+    Eyes: FireLizard
+    Hair: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Horns: 
+    Cape: 
+    Weapon: Cleaver
+    Shield: 
+    Back: 
+    Firearm: 
+  Tint: {r: 1, g: 1, b: 1, a: 1}
+  Portrait: {fileID: 2976458670107271802, guid: c0641e628e7e9164e8cc2ed024df6ce2, type: 3}

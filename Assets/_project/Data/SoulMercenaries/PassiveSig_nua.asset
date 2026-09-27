@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2059dbcade6e660458581368c2f38641, type: 3}
+  m_Name: PassiveSig_nua
+  m_EditorClassIdentifier: 
+  SkillName: "\uB3C5\uC190\uD1B1"
+  Description: "\uACF5\uACA9\uC5D0 \uB3C5\uC774 \uB354\uD574\uC9C0\uACE0 \uAC70\uB294
+    \uC0C1\uD0DC \uC774\uC0C1\uC774 \uD55C \uB2E8\uACC4 \uAC15\uD574\uC9D1\uB2C8\uB2E4."
+  Icon: {fileID: 21300000, guid: 2c7df7f21ee8e1f439a9ab727110a3a1, type: 3}
+  SoulId: sig_nua
+  SoulEvent: 0
+  Every: 1
+  AlwaysBonuses:
+  - Stat: 61
+    Value: 3
+  - Stat: 99
+    Value: 1
+  Damage:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Stamina: 0
+  MapTraits: 0

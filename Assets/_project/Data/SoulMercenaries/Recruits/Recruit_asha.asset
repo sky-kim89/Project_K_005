@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_asha
+  m_EditorClassIdentifier: 
+  Id: asha
+  DisplayName: "\uC544\uC0E4"
+  Template: {fileID: 11400000, guid: b921e6142311f244290163c94e1e24bb, type: 2}
+  Race: {fileID: 0}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uC0AC\uB0E5\uAFBC"
+  Concept: "\uC57D\uD55C \uACF3\uC744 \uB178\uB9AC\uB294 \uCD94\uC801\uC790. \uD798\uBCF4\uB2E4
+    \uB208\uC785\uB2C8\uB2E4."
+  Up: 21
+  Down: 17
+  Stats:
+  - Stat: 18
+    Value: 3
+  - Stat: 21
+    Value: 2
+  - Stat: 16
+    Value: -1
+  Growth:
+  - Stat: 18
+    Value: 2
+  Patterns:
+  - {fileID: 11400000, guid: 2da33966614238148a7231d09e4bf593, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: 3b320e7119fc33c49896531095b2c019, type: 2}
+  - {fileID: 11400000, guid: c23d5dd850405a7479ae5a363e15a6c4, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 137d61c0c648c2b458aacc1433d2f31b, type: 2}
+  - {fileID: 11400000, guid: 3d8566beb77e72c4bb70672079b51e95, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair14#D8B25A
+    Horns: 
+    Armor: ThiefTunic
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

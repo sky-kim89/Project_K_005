@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23abf3fa28858294f8c8de5eaab4e3da, type: 3}
+  m_Name: RaceDwarf
+  m_EditorClassIdentifier: 
+  Id: "\uB4DC\uC6CC\uD504"
+  Bonuses:
+  - Stat: 23
+    Value: 2
+  StartingPatterns:
+  - {fileID: 11400000, guid: a2ed98eede175424f8ac81710a84c70c, type: 2}
+  - {fileID: 11400000, guid: 3f7c4408278b39741be9ed1c2d687090, type: 2}
+  InnatePassives:
+  - {fileID: 11400000, guid: 5fb37fbcdbf482d4da8a44108a081e0e, type: 2}
+  - {fileID: 11400000, guid: a33c0de5b1b130941896ea9ee11c6bb6, type: 2}
+  ForbiddenPatternTags:
+  - bow
+  GrowthWeights:
+  - Stat: 17
+    Value: 3
+  - Stat: 23
+    Value: 3
+  - Stat: 16
+    Value: 2
+  - Stat: 27
+    Value: 2
+  Height: 1.35
+  Weight: 85
+  Appearance:
+    Body: Human#E69C69
+    Head: Human#E69C69
+    Ears: Human#E69C69
+    Eyes: Human
+    Hair: 
+    Armor: DwarfTunic
+    Helmet: DwarfHelm
+    Mask: 
+    Horns: 
+    Cape: 
+    Weapon: 
+    Shield: 
+    Back: 
+    Firearm: 

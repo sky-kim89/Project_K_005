@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_sylvaine
+  m_EditorClassIdentifier: 
+  Id: sylvaine
+  DisplayName: "\uC2E4\uBCA0\uC778"
+  Template: {fileID: 11400000, guid: 5ce10672b5a1acc4ca1f7d9b19bf6775, type: 2}
+  Race: {fileID: 11400000, guid: 7c4eaeaed77cbab45894055079391426, type: 2}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uB2EC\uC758 \uC0AC\uC218"
+  Concept: "\uB2EC\uBE5B \uC544\uB798 \uC3DC \uD654\uC0B4\uC740 \uBE57\uB098\uAC00\uC9C0
+    \uC54A\uC2B5\uB2C8\uB2E4."
+  Up: 18
+  Down: 16
+  Stats:
+  - Stat: 18
+    Value: 5
+  - Stat: 28
+    Value: 3
+  - Stat: 20
+    Value: 2
+  Growth:
+  - Stat: 18
+    Value: 2
+  - Stat: 28
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 2e8b942a5b084e04ca04f1cbb6029672, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: 353fe3d7fe4e8874db83f84924815569, type: 2}
+  - {fileID: 11400000, guid: 560e217e4a8bbe64d9fef23d952a6899, type: 2}
+  - {fileID: 11400000, guid: f71ca28904c474e49ac27ab9503aa6c2, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: e73bbd93a0a7e3d49a1397daae8292ce, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair10#5D2C28
+    Horns: 
+    Armor: CavalrymanArmor
+    Helmet: 
+    Mask: 
+    Cape: Cape#F0E8D0
+    Weapon: 
+    Shield: 

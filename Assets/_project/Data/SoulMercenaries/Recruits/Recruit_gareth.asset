@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_gareth
+  m_EditorClassIdentifier: 
+  Id: gareth
+  DisplayName: "\uAC00\uB81B"
+  Template: {fileID: 11400000, guid: 2a23312e9c3673e4fb10d2d73eb6b752, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 0
+  Founder: 0
+  Title: "\uB2A6\uAE4E\uC774 \uAC80\uC0AC"
+  Concept: "\uB4A4\uB2A6\uAC8C \uAC80\uC744 \uC7A1\uC558\uC9C0\uB9CC \uB204\uAD6C\uBCF4\uB2E4
+    \uBE68\uB9AC \uBC30\uC6C1\uB2C8\uB2E4."
+  Up: 20
+  Down: 21
+  Stats: []
+  Growth: []
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: 2df90669a0d8da9438af9281f085c6c1, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: c517b5ec038bf2243877d7ff2c59679b, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair4#D8B25A
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_rohan
+  m_EditorClassIdentifier: 
+  Id: rohan
+  DisplayName: "\uB85C\uD55C"
+  Template: {fileID: 11400000, guid: 2a23312e9c3673e4fb10d2d73eb6b752, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uD1F4\uC5ED \uB300\uC7A5"
+  Concept: "\uC804\uC7A5\uC744 \uC544\uB294 \uBAA9\uC18C\uB9AC\uAC00 \uB3D9\uB8CC\uB97C
+    \uC6C0\uC9C1\uC785\uB2C8\uB2E4."
+  Up: 20
+  Down: 18
+  Stats:
+  - Stat: 20
+    Value: 3
+  - Stat: 16
+    Value: 2
+  - Stat: 18
+    Value: -1
+  Growth:
+  - Stat: 20
+    Value: 2
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: 2df90669a0d8da9438af9281f085c6c1, type: 2}
+  - {fileID: 11400000, guid: afe2420f841ff33439df4998569aef7b, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 252e044d31ffd1c4b8016d3de35f16a4, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair14#E6E0C8
+    Horns: 
+    Armor: BlueKnight
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

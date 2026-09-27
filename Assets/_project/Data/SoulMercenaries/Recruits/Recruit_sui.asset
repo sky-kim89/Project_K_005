@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_sui
+  m_EditorClassIdentifier: 
+  Id: sui
+  DisplayName: "\uC218\uC774"
+  Template: {fileID: 11400000, guid: 69baddd2b2271b144bed1bb6f07e1595, type: 2}
+  Race: {fileID: 11400000, guid: 7c4eaeaed77cbab45894055079391426, type: 2}
+  PriceShift: 0
+  Rarity: 0
+  Founder: 0
+  Title: "\uC232\uC758 \uC0AC\uC81C"
+  Concept: "\uACC1\uC5D0 \uC788\uC73C\uBA74 \uC0C1\uCC98\uAC00 \uC544\uBB45\uB2C8\uB2E4."
+  Up: 19
+  Down: 16
+  Stats: []
+  Growth: []
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: d79cdd3c1fae84046a6b661175c5dc2d, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: f28327d92b1d48847a1f51fef5b3fba2, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair10#A5672F
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

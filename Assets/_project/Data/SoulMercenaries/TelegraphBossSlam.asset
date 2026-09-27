@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae375e71917f3ba4c8082b59da0a1e80, type: 3}
+  m_Name: TelegraphBossSlam
+  m_EditorClassIdentifier: 
+  Id: boss_slam
+  SkillName: "\uB300\uC9C0 \uAC15\uD0C0"
+  Shape: 0
+  Anchor: 0
+  Size: 3.2
+  Width: 1
+  WindUp: 1.6
+  Rest: 1.5
+  TriggerRange: 2.5
+  DamageSchool: 0
+  DamageKind: 1
+  Damage:
+    Flat: 10
+    Terms:
+    - Stat: 50
+      Factor: 0.05
+    - Stat: 16
+      Factor: 0.5
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Knockback: 1
+  Status:
+    Kind: 0
+    Chance:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 1
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9

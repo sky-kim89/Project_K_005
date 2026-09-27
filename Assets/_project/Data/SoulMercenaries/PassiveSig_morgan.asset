@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2059dbcade6e660458581368c2f38641, type: 3}
+  m_Name: PassiveSig_morgan
+  m_EditorClassIdentifier: 
+  SkillName: "\uAE4A\uC740 \uC800\uC8FC"
+  Description: "\uAC70\uB294 \uC0C1\uD0DC \uC774\uC0C1\uC774 \uD55C \uB2E8\uACC4
+    \uAC15\uD574\uC9C0\uACE0 MP\uB97C \uC4F0\uB294 \uC2A4\uD0AC\uC758 \uD6A8\uACFC\uAC00
+    10% \uC624\uB985\uB2C8\uB2E4."
+  Icon: {fileID: 21300000, guid: 3756244df9327184b8d029adf3a8985d, type: 3}
+  SoulId: sig_morgan
+  SoulEvent: 0
+  Every: 1
+  AlwaysBonuses:
+  - Stat: 99
+    Value: 1
+  - Stat: 82
+    Value: 0.1
+  Damage:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Stamina: 0
+  MapTraits: 0

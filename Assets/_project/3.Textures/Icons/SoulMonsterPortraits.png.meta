@@ -1,0 +1,1578 @@
+fileFormatVersion: 2
+guid: c0641e628e7e9164e8cc2ed024df6ce2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5634327672903728677
+    second: SoulMonsterPortraits_0
+  - first:
+      213: -62371039238545846
+    second: SoulMonsterPortraits_1
+  - first:
+      213: -4755135784943967069
+    second: SoulMonsterPortraits_2
+  - first:
+      213: -8670740338881459162
+    second: SoulMonsterPortraits_3
+  - first:
+      213: 2458308155792876872
+    second: SoulMonsterPortraits_4
+  - first:
+      213: -4585565174570693954
+    second: SoulMonsterPortraits_5
+  - first:
+      213: 8563994187496152124
+    second: SoulMonsterPortraits_6
+  - first:
+      213: 8297043629315962176
+    second: SoulMonsterPortraits_7
+  - first:
+      213: -416501259365633060
+    second: SoulMonsterPortraits_8
+  - first:
+      213: 7781476451318185412
+    second: SoulMonsterPortraits_9
+  - first:
+      213: 3938720634509752489
+    second: SoulMonsterPortraits_10
+  - first:
+      213: 4768131276573049970
+    second: SoulMonsterPortraits_11
+  - first:
+      213: 4881614205311114329
+    second: SoulMonsterPortraits_12
+  - first:
+      213: -3677142065364713808
+    second: SoulMonsterPortraits_13
+  - first:
+      213: 5236011563542991243
+    second: SoulMonsterPortraits_14
+  - first:
+      213: -7079998476590423004
+    second: SoulMonsterPortraits_15
+  - first:
+      213: 4281196835896801124
+    second: SoulMonsterPortraits_16
+  - first:
+      213: 1092788642067412443
+    second: SoulMonsterPortraits_17
+  - first:
+      213: -2435938393552520083
+    second: SoulMonsterPortraits_18
+  - first:
+      213: -9013301116703354028
+    second: SoulMonsterPortraits_19
+  - first:
+      213: 2984696792540080318
+    second: SoulMonsterPortraits_20
+  - first:
+      213: 8346865626818550068
+    second: SoulMonsterPortraits_21
+  - first:
+      213: 2400928425893646125
+    second: SoulMonsterPortraits_22
+  - first:
+      213: -107052004856685793
+    second: SoulMonsterPortraits_23
+  - first:
+      213: -466391341372065405
+    second: SoulMonsterPortraits_24
+  - first:
+      213: -2364935054693389509
+    second: SoulMonsterPortraits_25
+  - first:
+      213: -785729380665732522
+    second: SoulMonsterPortraits_26
+  - first:
+      213: 4954272001017315619
+    second: SoulMonsterPortraits_27
+  - first:
+      213: -4807367482303419646
+    second: SoulMonsterPortraits_28
+  - first:
+      213: -4360003329958604949
+    second: SoulMonsterPortraits_29
+  - first:
+      213: 8347896729773264557
+    second: SoulMonsterPortraits_30
+  - first:
+      213: 6626191729845123138
+    second: SoulMonsterPortraits_31
+  - first:
+      213: -4323187191306485092
+    second: SoulMonsterPortraits_32
+  - first:
+      213: 6948685048353239202
+    second: SoulMonsterPortraits_33
+  - first:
+      213: -4151422364530712711
+    second: SoulMonsterPortraits_34
+  - first:
+      213: -1646126119636645764
+    second: SoulMonsterPortraits_35
+  - first:
+      213: -8358360678839358804
+    second: SoulMonsterPortraits_36
+  - first:
+      213: -3033163363258271355
+    second: MonsterAbyssLord
+  - first:
+      213: -1329625290987522288
+    second: MonsterBeastfolk
+  - first:
+      213: 8050367782236364218
+    second: MonsterBoneKing
+  - first:
+      213: 7895127874434159967
+    second: MonsterBoneKnight
+  - first:
+      213: 1891726002658101732
+    second: MonsterDarkElf
+  - first:
+      213: -5749797827353149586
+    second: MonsterDemon
+  - first:
+      213: 7988047406253478457
+    second: MonsterDemonGeneral
+  - first:
+      213: 4488492445402383634
+    second: MonsterDemonWarlock
+  - first:
+      213: 1571289182832696185
+    second: MonsterFallenDemigod
+  - first:
+      213: 7057024175312384887
+    second: MonsterFireCaller
+  - first:
+      213: 515130527389888433
+    second: MonsterFireDrake
+  - first:
+      213: 2976458670107271802
+    second: MonsterFireLizard
+  - first:
+      213: -2272534021167682482
+    second: MonsterFishCaller
+  - first:
+      213: -6760505032864077135
+    second: MonsterFishSpear
+  - first:
+      213: -4725816659114213733
+    second: MonsterFishWarden
+  - first:
+      213: 7245378320653319098
+    second: MonsterFrogShooter
+  - first:
+      213: -9058767214370038858
+    second: MonsterFrogSpear
+  - first:
+      213: 1114847328161799219
+    second: MonsterGoblinArcher
+  - first:
+      213: -3051888663360335226
+    second: MonsterGoblinChief
+  - first:
+      213: 8439510151135971244
+    second: MonsterGoblinMiner
+  - first:
+      213: -8345042860551272681
+    second: MonsterGoblinShaman
+  - first:
+      213: 3777550370422165475
+    second: MonsterGoblinWarrior
+  - first:
+      213: 1095076143333149325
+    second: MonsterLakeDrake
+  - first:
+      213: -874831503195571030
+    second: MonsterLizard
+  - first:
+      213: -2161074601534367972
+    second: MonsterOrcChief
+  - first:
+      213: 2487412729368265799
+    second: MonsterOrcMiner
+  - first:
+      213: -1285896095493575250
+    second: MonsterOrcRaider
+  - first:
+      213: -4109216774987975392
+    second: MonsterRotten
+  - first:
+      213: 7125061858458637008
+    second: MonsterSanctumGuard
+  - first:
+      213: -4595139785420558655
+    second: MonsterSkeleton
+  - first:
+      213: -4744865464069874793
+    second: MonsterSkeletonArcher
+  - first:
+      213: 8545106655934327706
+    second: MonsterSkeletonMage
+  - first:
+      213: -51100067553296248
+    second: MonsterToadLord
+  - first:
+      213: 1744167258001111
+    second: MonsterVampire
+  - first:
+      213: 4139755628767688208
+    second: MonsterVampireMage
+  - first:
+      213: -6880485018541043797
+    second: MonsterWerewolf
+  - first:
+      213: 2591080706138843404
+    second: MonsterZombie
+  - first:
+      213: 1547982801698706287
+    second: MonsterBloodSlime
+  - first:
+      213: 2185184275625687675
+    second: MonsterBoar
+  - first:
+      213: -7353041455711304616
+    second: MonsterCrystalGolem
+  - first:
+      213: 7175681311520443789
+    second: MonsterFireSlime
+  - first:
+      213: -1475925531465963197
+    second: MonsterFrostSlime
+  - first:
+      213: 2420502398401906342
+    second: MonsterGuardian
+  - first:
+      213: 1895289555857950038
+    second: MonsterLavaBoar
+  - first:
+      213: 1252624776861050015
+    second: MonsterLavaTroll
+  - first:
+      213: 6871243211323145997
+    second: MonsterMossTroll
+  - first:
+      213: 840745572029331401
+    second: MonsterPlagueSlime
+  - first:
+      213: 2222010417751655062
+    second: MonsterSlug
+  - first:
+      213: -3058186344756672067
+    second: MonsterStone
+  - first:
+      213: 6521877049092347118
+    second: MonsterWolf
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MonsterAbyssLord
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589f243ddf908e5d0800000000000000
+      internalID: -3033163363258271355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBeastfolk
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017305ea7d83c8de0800000000000000
+      internalID: -1329625290987522288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBloodSlime
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 410
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f635aa5182a8b7510800000000000000
+      internalID: 1547982801698706287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBoar
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 410
+        width: 17
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a30756585535e10800000000000000
+      internalID: 2185184275625687675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBoneKing
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd927368d6a8bf60800000000000000
+      internalID: 8050367782236364218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterBoneKnight
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55deebb8f0219d60800000000000000
+      internalID: 7895127874434159967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterCrystalGolem
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 401
+        width: 34
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8544b9d01cfb4f990800000000000000
+      internalID: -7353041455711304616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterDarkElf
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e94ec0d6c2c04a10800000000000000
+      internalID: 1891726002658101732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterDemon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f7d4af65d9430b0800000000000000
+      internalID: -5749797827353149586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterDemonGeneral
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93218b22bce3bde60800000000000000
+      internalID: 7988047406253478457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterDemonWarlock
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215cb3919145a4e30800000000000000
+      internalID: 4488492445402383634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterFallenDemigod
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b182ecf275ec510800000000000000
+      internalID: 1571289182832696185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterFireCaller
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773b6d409169fe160800000000000000
+      internalID: 7057024175312384887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterFireDrake
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfa8024c7c162700800000000000000
+      internalID: 515130527389888433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterFireLizard
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a722068f3618e4920800000000000000
+      internalID: 2976458670107271802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterFireSlime
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 346
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dc59a6224259360800000000000000
+      internalID: 7175681311520443789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterFishCaller
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c6f4029565670e0800000000000000
+      internalID: -2272534021167682482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterFishSpear
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba65e5cd7cdd22a0800000000000000
+      internalID: -6760505032864077135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterFishWarden
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ebfd779c68a6eb0800000000000000
+      internalID: -4725816659114213733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterFrogShooter
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb7bd9e131cc8460800000000000000
+      internalID: 7245378320653319098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterFrogSpear
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbd484c63bc84280800000000000000
+      internalID: -9058767214370038858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterFrostSlime
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 282
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349aa068c85748be0800000000000000
+      internalID: -1475925531465963197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterGoblinArcher
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c90edfcbbb87f00800000000000000
+      internalID: 1114847328161799219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterGoblinChief
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6829d562e6385a5d0800000000000000
+      internalID: -3051888663360335226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterGoblinMiner
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca743cc94c92f1570800000000000000
+      internalID: 8439510151135971244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterGoblinShaman
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7178e657bb3703c80800000000000000
+      internalID: -8345042860551272681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterGoblinWarrior
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef882e2c0e8c6430800000000000000
+      internalID: 3777550370422165475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterGuardian
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 209
+        width: 34
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a60ab26b1a579120800000000000000
+      internalID: 2420502398401906342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterLakeDrake
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a806d43fd723f00800000000000000
+      internalID: 1095076143333149325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterLavaBoar
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 218
+        width: 17
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655cb633fcb6d4a10800000000000000
+      internalID: 1895289555857950038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterLavaTroll
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 209
+        width: 34
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94e7ad0997326110800000000000000
+      internalID: 1252624776861050015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterLizard
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacf4b50269fbd3f0800000000000000
+      internalID: -874831503195571030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterMossTroll
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 145
+        width: 34
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ffa389b4f8b5f50800000000000000
+      internalID: 6871243211323145997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterOrcChief
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17dc6a89125202e0800000000000000
+      internalID: -2161074601534367972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterOrcMiner
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c7cfc2b0158220800000000000000
+      internalID: 2487412729368265799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterOrcRaider
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead2b0a6054972ee0800000000000000
+      internalID: -1285896095493575250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterPlagueSlime
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 154
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c77a4fa4adeaab00800000000000000
+      internalID: 840745572029331401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterRotten
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025f3cd5d1129f6c0800000000000000
+      internalID: -4109216774987975392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterSanctumGuard
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d29c14920e41e260800000000000000
+      internalID: 7125061858458637008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterSkeleton
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce2eb416b8ca30c0800000000000000
+      internalID: -4595139785420558655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterSkeletonArcher
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b9813fff9d62eb0800000000000000
+      internalID: -4744865464069874793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterSkeletonMage
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9baacaca31569670800000000000000
+      internalID: 8545106655934327706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterSlug
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 90
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6920e45c3ba26de10800000000000000
+      internalID: 2222010417751655062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterStone
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 81
+        width: 34
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db904dfe8b32f85d0800000000000000
+      internalID: -3058186344756672067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterToadLord
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880cc7162c47a4ff0800000000000000
+      internalID: -51100067553296248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterVampire
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de87d59f42360000800000000000000
+      internalID: 1744167258001111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterVampireMage
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0163f9d9fcd537930800000000000000
+      internalID: 4139755628767688208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterWerewolf
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafc67b745b9380a0800000000000000
+      internalID: -6880485018541043797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterWolf
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 25
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee41ceb2f9c528a50800000000000000
+      internalID: 6521877049092347118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterZombie
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0926c19c2e55f320800000000000000
+      internalID: 2591080706138843404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MonsterAbyssLord: -3033163363258271355
+      MonsterBeastfolk: -1329625290987522288
+      MonsterBloodSlime: 1547982801698706287
+      MonsterBoar: 2185184275625687675
+      MonsterBoneKing: 8050367782236364218
+      MonsterBoneKnight: 7895127874434159967
+      MonsterCrystalGolem: -7353041455711304616
+      MonsterDarkElf: 1891726002658101732
+      MonsterDemon: -5749797827353149586
+      MonsterDemonGeneral: 7988047406253478457
+      MonsterDemonWarlock: 4488492445402383634
+      MonsterFallenDemigod: 1571289182832696185
+      MonsterFireCaller: 7057024175312384887
+      MonsterFireDrake: 515130527389888433
+      MonsterFireLizard: 2976458670107271802
+      MonsterFireSlime: 7175681311520443789
+      MonsterFishCaller: -2272534021167682482
+      MonsterFishSpear: -6760505032864077135
+      MonsterFishWarden: -4725816659114213733
+      MonsterFrogShooter: 7245378320653319098
+      MonsterFrogSpear: -9058767214370038858
+      MonsterFrostSlime: -1475925531465963197
+      MonsterGoblinArcher: 1114847328161799219
+      MonsterGoblinChief: -3051888663360335226
+      MonsterGoblinMiner: 8439510151135971244
+      MonsterGoblinShaman: -8345042860551272681
+      MonsterGoblinWarrior: 3777550370422165475
+      MonsterGuardian: 2420502398401906342
+      MonsterLakeDrake: 1095076143333149325
+      MonsterLavaBoar: 1895289555857950038
+      MonsterLavaTroll: 1252624776861050015
+      MonsterLizard: -874831503195571030
+      MonsterMossTroll: 6871243211323145997
+      MonsterOrcChief: -2161074601534367972
+      MonsterOrcMiner: 2487412729368265799
+      MonsterOrcRaider: -1285896095493575250
+      MonsterPlagueSlime: 840745572029331401
+      MonsterRotten: -4109216774987975392
+      MonsterSanctumGuard: 7125061858458637008
+      MonsterSkeleton: -4595139785420558655
+      MonsterSkeletonArcher: -4744865464069874793
+      MonsterSkeletonMage: 8545106655934327706
+      MonsterSlug: 2222010417751655062
+      MonsterStone: -3058186344756672067
+      MonsterToadLord: -51100067553296248
+      MonsterVampire: 1744167258001111
+      MonsterVampireMage: 4139755628767688208
+      MonsterWerewolf: -6880485018541043797
+      MonsterWolf: 6521877049092347118
+      MonsterZombie: 2591080706138843404
+      SoulMonsterPortraits_0: -5634327672903728677
+      SoulMonsterPortraits_1: -62371039238545846
+      SoulMonsterPortraits_10: 3938720634509752489
+      SoulMonsterPortraits_11: 4768131276573049970
+      SoulMonsterPortraits_12: 4881614205311114329
+      SoulMonsterPortraits_13: -3677142065364713808
+      SoulMonsterPortraits_14: 5236011563542991243
+      SoulMonsterPortraits_15: -7079998476590423004
+      SoulMonsterPortraits_16: 4281196835896801124
+      SoulMonsterPortraits_17: 1092788642067412443
+      SoulMonsterPortraits_18: -2435938393552520083
+      SoulMonsterPortraits_19: -9013301116703354028
+      SoulMonsterPortraits_2: -4755135784943967069
+      SoulMonsterPortraits_20: 2984696792540080318
+      SoulMonsterPortraits_21: 8346865626818550068
+      SoulMonsterPortraits_22: 2400928425893646125
+      SoulMonsterPortraits_23: -107052004856685793
+      SoulMonsterPortraits_24: -466391341372065405
+      SoulMonsterPortraits_25: -2364935054693389509
+      SoulMonsterPortraits_26: -785729380665732522
+      SoulMonsterPortraits_27: 4954272001017315619
+      SoulMonsterPortraits_28: -4807367482303419646
+      SoulMonsterPortraits_29: -4360003329958604949
+      SoulMonsterPortraits_3: -8670740338881459162
+      SoulMonsterPortraits_30: 8347896729773264557
+      SoulMonsterPortraits_31: 6626191729845123138
+      SoulMonsterPortraits_32: -4323187191306485092
+      SoulMonsterPortraits_33: 6948685048353239202
+      SoulMonsterPortraits_34: -4151422364530712711
+      SoulMonsterPortraits_35: -1646126119636645764
+      SoulMonsterPortraits_36: -8358360678839358804
+      SoulMonsterPortraits_4: 2458308155792876872
+      SoulMonsterPortraits_5: -4585565174570693954
+      SoulMonsterPortraits_6: 8563994187496152124
+      SoulMonsterPortraits_7: 8297043629315962176
+      SoulMonsterPortraits_8: -416501259365633060
+      SoulMonsterPortraits_9: 7781476451318185412
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2059dbcade6e660458581368c2f38641, type: 3}
+  m_Name: PassiveSig_mira
+  m_EditorClassIdentifier: 
+  SkillName: "\uD53C\uC758 \uAC08\uC99D"
+  Description: "\uC900 \uD53C\uD574\uC758 5%\uB97C HP\uB85C \uD68C\uBCF5\uD558\uACE0,
+    \uC801\uC744 \uC4F0\uB7EC\uB728\uB9AC\uBA74 \uC2A4\uD0DC\uBBF8\uB098\uB97C 10%
+    \uD68C\uBCF5\uD569\uB2C8\uB2E4."
+  Icon: {fileID: 21300000, guid: acc45d8d54321dc48a1b19e5060d6a57, type: 3}
+  SoulId: sig_mira
+  SoulEvent: 0
+  Every: 1
+  AlwaysBonuses:
+  - Stat: 69
+    Value: 0.05
+  - Stat: 70
+    Value: 0.1
+  Damage:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Stamina: 0
+  MapTraits: 0

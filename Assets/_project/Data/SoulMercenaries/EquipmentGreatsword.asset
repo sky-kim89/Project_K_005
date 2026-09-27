@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19972297e4283214d9a7c2f23716ee12, type: 3}
+  m_Name: EquipmentGreatsword
+  m_EditorClassIdentifier: 
+  Id: greatsword
+  DisplayName: "\uB300\uAC80"
+  Kind: "\uC591\uC190\uAC80"
+  Slot: 0
+  TwoHanded: 1
+  WeaponTag: sword
+  BaseWeight: 6.5
+  Material: 7
+  Unique: 0
+  FixedGrade: 3
+  Price: 150
+  ShopTier: 2
+  DropFloor: 2
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: Greatsword
+    Shield: 
+  Icon: {fileID: 21300000, guid: d28abe6adecb27c4e808c4c53568aea0, type: 3}
+  BasicAttack: {fileID: 11400000, guid: 92ca46cd9e7ebc546b2291e8e91c632e, type: 2}
+  Bonuses:
+  - Stat: 2
+    Value: 9
+  - Stat: 26
+    Value: 2
+  Patterns: []
+  ActiveSkills: []
+  Passives: []

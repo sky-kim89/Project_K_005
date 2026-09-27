@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_isolde
+  m_EditorClassIdentifier: 
+  Id: isolde
+  DisplayName: "\uC774\uC194\uB370"
+  Template: {fileID: 11400000, guid: 2b35804c9c67b814f92b04c0bec75e39, type: 2}
+  Race: {fileID: 0}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uB300\uB9C8\uB3C4\uC0AC\uC758 \uD6C4\uACC4"
+  Concept: "\uD0C0\uACE0\uB09C \uB9C8\uB825. \uB9C8\uB825\uD0C4\uACFC \uB0C9\uAE30\uB97C
+    \uC790\uC720\uB86D\uAC8C \uB2E4\uB8F9\uB2C8\uB2E4."
+  Up: 20
+  Down: 17
+  Stats:
+  - Stat: 19
+    Value: 5
+  - Stat: 20
+    Value: 3
+  - Stat: 25
+    Value: 2
+  Growth:
+  - Stat: 19
+    Value: 2
+  - Stat: 20
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 4f6f2097273aaa049b6ecb353986e66b, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: d9f7f5380f2212b4d82683c1bc36fa85, type: 2}
+  - {fileID: 11400000, guid: c860d07130ac4004794b4d6d376566a6, type: 2}
+  - {fileID: 11400000, guid: 710d3d120eecfb048a8b820e99d72169, type: 2}
+  - {fileID: 11400000, guid: d7936064277b3f449997d0e38e1ba33e, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 134336aa6f1545e40963240e11113603, type: 2}
+  - {fileID: 11400000, guid: 56415cf290997da4a9a2c45ffc6b9dbb, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair12#B8C8F8
+    Horns: 
+    Armor: DemigodArmour
+    Helmet: 
+    Mask: 
+    Cape: Cape#5A3A9A
+    Weapon: 
+    Shield: 

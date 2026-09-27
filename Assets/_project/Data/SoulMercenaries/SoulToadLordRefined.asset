@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulToadLordRefined
+  m_EditorClassIdentifier: 
+  Id: toad_lord_refined
+  OriginMonster: "\uB2AA\uC758 \uAD70\uC8FC(\uC815\uC81C)"
+  Source: {fileID: 11400000, guid: 21b87b70518d46c4890264221ad603bb, type: 2}
+  Grade: 2
+  CharacteristicStats:
+  - Stat: 17
+    Value: 6
+  Patterns:
+  - {fileID: 11400000, guid: 969e908058bec5b4ea92fc460a8cc21a, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: 1e17368b62325f34db08d9ce802dcdb5, type: 2}
+  - {fileID: 11400000, guid: 23819a72229ef574e88511142dd072bd, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 87476c9d5bda3c44880154ef49438eec, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1.3
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 0}

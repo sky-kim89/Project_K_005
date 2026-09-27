@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae375e71917f3ba4c8082b59da0a1e80, type: 3}
+  m_Name: TelegraphBossSweep
+  m_EditorClassIdentifier: 
+  Id: boss_sweep
+  SkillName: "\uBD80\uCC44\uAF34 \uD729\uC4F8\uAE30"
+  Shape: 1
+  Anchor: 1
+  Size: 4.5
+  Width: 110
+  WindUp: 1.1
+  Rest: 1.5
+  TriggerRange: 3.5
+  DamageSchool: 0
+  DamageKind: 1
+  Damage:
+    Flat: 8
+    Terms:
+    - Stat: 16
+      Factor: 0.5
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Knockback: 0.6
+  Status:
+    Kind: 0
+    Chance:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 1
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9

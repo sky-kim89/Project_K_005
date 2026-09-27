@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2059dbcade6e660458581368c2f38641, type: 3}
+  m_Name: PassiveSig_belian
+  m_EditorClassIdentifier: 
+  SkillName: "\uC8FD\uC74C\uC758 \uC218\uD655"
+  Description: "\uC801\uC744 \uC4F0\uB7EC\uB728\uB9AC\uBA74 \uCD5C\uB300 MP\uC758
+    12%\uB97C \uD68C\uBCF5\uD558\uACE0 \uC601\uD63C \uB4DC\uB86D \uD655\uB960\uC774
+    15% \uC624\uB985\uB2C8\uB2E4."
+  Icon: {fileID: 21300000, guid: 5a1b0afa75ad7074fb854b5e804a8499, type: 3}
+  SoulId: sig_belian
+  SoulEvent: 0
+  Every: 1
+  AlwaysBonuses:
+  - Stat: 100
+    Value: 0.12
+  - Stat: 80
+    Value: 0.15
+  Damage:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Stamina: 0
+  MapTraits: 0

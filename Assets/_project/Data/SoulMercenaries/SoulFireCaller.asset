@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulFireCaller
+  m_EditorClassIdentifier: 
+  Id: fire_caller
+  OriginMonster: "\uBD88\uB3C4\uB9C8\uBC40 \uC8FC\uC220\uC0AC"
+  Source: {fileID: 11400000, guid: 58029c58ea2c23741bb8e6d7f85f5be6, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 19
+    Value: 3
+  Patterns:
+  - {fileID: 11400000, guid: 572c56d2c580f9a48bcfaed13871afbe, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: ae5cfc9b2e245ae4b8b06d91b2b680eb, type: 2}
+  Passives: []
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 11400000, guid: 6afba0f940409934d9078a42ee0adffd, type: 2}

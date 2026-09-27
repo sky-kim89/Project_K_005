@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_brunhild
+  m_EditorClassIdentifier: 
+  Id: brunhild
+  DisplayName: "\uBE0C\uB8EC\uD790\uD2B8"
+  Template: {fileID: 11400000, guid: d63dc6af758ef7148951ff90d15bef71, type: 2}
+  Race: {fileID: 11400000, guid: 4d72c16d2aa18cc42867cf8eb6602758, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uBC29\uD328\uBCBD"
+  Concept: "\uB3D9\uB8CC \uC55E\uC5D0 \uC11C\uBA74 \uBCBD\uC774 \uB429\uB2C8\uB2E4."
+  Up: 17
+  Down: 18
+  Stats:
+  - Stat: 17
+    Value: 3
+  - Stat: 20
+    Value: 2
+  - Stat: 18
+    Value: -1
+  Growth:
+  - Stat: 17
+    Value: 2
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: afa104dd7f61d4d4eb4f53b492990706, type: 2}
+  - {fileID: 11400000, guid: 1711c2a40a603c64cbf89bf99f1f79b0, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: b80d109c0941f6043afc7a81e3c43cc8, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair4#3A3F6E
+    Horns: 
+    Armor: Spartan
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

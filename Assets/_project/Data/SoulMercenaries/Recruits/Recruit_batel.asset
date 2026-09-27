@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_batel
+  m_EditorClassIdentifier: 
+  Id: batel
+  DisplayName: "\uBC14\uD154"
+  Template: {fileID: 11400000, guid: 2c6fa7b3892afbf4995457e6f7b071a7, type: 2}
+  Race: {fileID: 11400000, guid: 4d72c16d2aa18cc42867cf8eb6602758, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uD3ED\uC57D\uAFBC"
+  Concept: "\uD3ED\uC57D \uB0C4\uC0C8\uAC00 \uBAB8\uC5D0 \uBC30\uC5C8\uC2B5\uB2C8\uB2E4."
+  Up: 16
+  Down: 18
+  Stats:
+  - Stat: 16
+    Value: 2
+  - Stat: 17
+    Value: 2
+  - Stat: 21
+    Value: 1
+  - Stat: 18
+    Value: -1
+  Growth:
+  - Stat: 16
+    Value: 2
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: f9e431770af5afc47a3055ea39b8b2a8, type: 2}
+  - {fileID: 11400000, guid: 4f2bf567a453c7d40adc9315864bd550, type: 2}
+  - {fileID: 11400000, guid: c0e81f28ed51c9243b522bdaf8733cd0, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 66b472ffaf42e024bbc3840c72eed840, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair13#D8B25A
+    Horns: 
+    Armor: MusketeerTunic
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

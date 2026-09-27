@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulSkeleton
+  m_EditorClassIdentifier: 
+  Id: skeleton
+  OriginMonster: "\uD574\uACE8"
+  Source: {fileID: 11400000, guid: 8d585166bbc7dc44b81ce5840c444c5e, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 20
+    Value: 2
+  - Stat: 23
+    Value: 1
+  Patterns: []
+  ActiveSkills:
+  - {fileID: 11400000, guid: af48a0f6b6b635a44b1657d56909aa1d, type: 2}
+  - {fileID: 11400000, guid: 1f88bb663e45393418bf0762e467c333, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 1aa458735e8c87747aa9f0feccc9f73e, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 0.8
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 11400000, guid: 97a9d8dfb2527374cb18f7fc0c680665, type: 2}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23abf3fa28858294f8c8de5eaab4e3da, type: 3}
+  m_Name: RaceElf
+  m_EditorClassIdentifier: 
+  Id: "\uC5D8\uD504"
+  Bonuses:
+  - Stat: 18
+    Value: 1
+  - Stat: 19
+    Value: 1
+  StartingPatterns:
+  - {fileID: 11400000, guid: 5404c11c84abbe14a94065e4363bf174, type: 2}
+  - {fileID: 11400000, guid: fea607a9c839ff34385b79282a55f86b, type: 2}
+  InnatePassives:
+  - {fileID: 11400000, guid: 439fb251a331647498348cba70449b93, type: 2}
+  ForbiddenPatternTags: []
+  GrowthWeights:
+  - Stat: 18
+    Value: 3
+  - Stat: 19
+    Value: 3
+  - Stat: 28
+    Value: 2
+  Height: 1.8
+  Weight: 60
+  Appearance:
+    Body: Elf#F9E6CF
+    Head: Elf#F9E6CF
+    Ears: Elf#F9E6CF
+    Eyes: Elf
+    Hair: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Horns: 
+    Cape: 
+    Weapon: 
+    Shield: 
+    Back: 
+    Firearm: 

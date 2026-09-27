@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_oscar
+  m_EditorClassIdentifier: 
+  Id: oscar
+  DisplayName: "\uC624\uC2A4\uCE74"
+  Template: {fileID: 11400000, guid: 2b35804c9c67b814f92b04c0bec75e39, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 0
+  Founder: 0
+  Title: "\uBA85\uC0C1\uAC00 \uC9C0\uB9DD\uC0DD"
+  Concept: "\uC228\uC744 \uACE0\uB974\uBA74 \uB9C8\uB825\uC774 \uCC28\uC624\uB985\uB2C8\uB2E4."
+  Up: 20
+  Down: 16
+  Stats: []
+  Growth: []
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: d9f7f5380f2212b4d82683c1bc36fa85, type: 2}
+  - {fileID: 11400000, guid: 649a4903730299245a4f7c8849a1a7be, type: 2}
+  - {fileID: 11400000, guid: 67f05177018448d418231c0847cbdac5, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 28d74125e5d775c44b5299e8c870c004, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair14#B8C8F8
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

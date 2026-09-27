@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a1fc967e7ae4e6468a9a473a2873acf, type: 3}
+  m_Name: MercenaryArcher
+  m_EditorClassIdentifier: 
+  Id: archer
+  DisplayName: "\uC2E4\uB77C\uC2A4"
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  BaseStats:
+  - Stat: 18
+    Value: 6
+  - Stat: 16
+    Value: 3
+  - Stat: 17
+    Value: 3
+  - Stat: 20
+    Value: 2
+  - Stat: 21
+    Value: 2
+  - Stat: 28
+    Value: 3
+  StartingEquipment:
+  - {fileID: 11400000, guid: 294877caf5de8184fb938c556f5a20bd, type: 2}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair3#8A4836
+    Horns: 
+    Armor: ArcherTunic
+    Helmet: ArcherHood
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  Job: "\uAD81\uC218"
+  Role: 2
+  Passives: []
+  GrowthWeights:
+  - Stat: 18
+    Value: 3
+  - Stat: 28
+    Value: 2
+  - Stat: 16
+    Value: 1
+  WeakGrowth: 130000001a0000001b000000
+  Patterns:
+  - {fileID: 11400000, guid: fea607a9c839ff34385b79282a55f86b, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: 353fe3d7fe4e8874db83f84924815569, type: 2}

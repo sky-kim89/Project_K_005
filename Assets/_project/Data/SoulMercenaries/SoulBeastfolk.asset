@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulBeastfolk
+  m_EditorClassIdentifier: 
+  Id: beastfolk
+  OriginMonster: "\uC57C\uC218\uC778"
+  Source: {fileID: 11400000, guid: 777734875f5cab844ae9739e526e2bfe, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 21
+    Value: 1
+  - Stat: 18
+    Value: 1
+  Patterns: []
+  ActiveSkills:
+  - {fileID: 11400000, guid: b78a0bdadf2884c46aaca3b3f4e210df, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: da02dfd55ce655a419f027e0a9b9e5ce, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 11400000, guid: 8f75ea81965d89946b4221d315698bd1, type: 2}

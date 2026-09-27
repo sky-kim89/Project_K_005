@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_elena
+  m_EditorClassIdentifier: 
+  Id: elena
+  DisplayName: "\uC5D8\uB808\uB098"
+  Template: {fileID: 11400000, guid: 69baddd2b2271b144bed1bb6f07e1595, type: 2}
+  Race: {fileID: 0}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uC131\uB140"
+  Concept: "\uAE30\uC801\uC744 \uBD80\uB974\uB294 \uC2E0\uC559. \uC131\uC2A4\uB7EC\uC6B4
+    \uC190\uAE38\uC744 \uC501\uB2C8\uB2E4."
+  Up: 20
+  Down: 17
+  Stats:
+  - Stat: 20
+    Value: 5
+  - Stat: 19
+    Value: 4
+  - Stat: 17
+    Value: 1
+  Growth:
+  - Stat: 20
+    Value: 2
+  - Stat: 19
+    Value: 1
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: d79cdd3c1fae84046a6b661175c5dc2d, type: 2}
+  - {fileID: 11400000, guid: fcf0df7c4fcf6e14097262616595be5f, type: 2}
+  - {fileID: 11400000, guid: 448b57e98288b484da5de36d60a71eb6, type: 2}
+  - {fileID: 11400000, guid: b8b398081013e1d4ba16f1ee9c2d5f8a, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 79363ee754d06014e99769ba420d9560, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair3#F0E0A0
+    Horns: 
+    Armor: Priest
+    Helmet: 
+    Mask: 
+    Cape: Cape#F0E8D0
+    Weapon: 
+    Shield: 

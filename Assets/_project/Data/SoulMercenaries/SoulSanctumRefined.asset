@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulSanctumRefined
+  m_EditorClassIdentifier: 
+  Id: sanctum_refined
+  OriginMonster: "\uC131\uC18C \uC218\uD638\uC790(\uC815\uC81C)"
+  Source: {fileID: 11400000, guid: fce151aa905b3a4478ecfeb7eefbae25, type: 2}
+  Grade: 2
+  CharacteristicStats:
+  - Stat: 20
+    Value: 4.5
+  Patterns: []
+  ActiveSkills:
+  - {fileID: 11400000, guid: 5a0710107952a044f886d9ffb2dae428, type: 2}
+  - {fileID: 11400000, guid: b520558ec0dbac9439237ce74d0833d6, type: 2}
+  Passives: []
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 0}

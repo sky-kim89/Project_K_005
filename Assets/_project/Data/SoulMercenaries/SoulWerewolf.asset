@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulWerewolf
+  m_EditorClassIdentifier: 
+  Id: werewolf
+  OriginMonster: "\uB291\uB300\uC778\uAC04"
+  Source: {fileID: 11400000, guid: 48026320cb62c1046849ad8c17764ece, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 16
+    Value: 2
+  - Stat: 18
+    Value: 2
+  Patterns: []
+  ActiveSkills:
+  - {fileID: 11400000, guid: c078b7a81561b8a45b0540ff0313fcc0, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 74d7f3d176d3b9a4db32fa8833e244f8, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 11400000, guid: fddd5325c995ad948810ec7a31be66f0, type: 2}

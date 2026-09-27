@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_morgan
+  m_EditorClassIdentifier: 
+  Id: morgan
+  DisplayName: "\uBAA8\uB974\uAC04"
+  Template: {fileID: 11400000, guid: 2b35804c9c67b814f92b04c0bec75e39, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uC800\uC8FC\uC220\uC0AC"
+  Concept: "\uC800\uC8FC\uAC00 \uBF1B\uC18D\uAE4C\uC9C0 \uC2A4\uBA70\uB4ED\uB2C8\uB2E4."
+  Up: 20
+  Down: 17
+  Stats:
+  - Stat: 19
+    Value: 3
+  - Stat: 20
+    Value: 2
+  - Stat: 17
+    Value: -1
+  Growth:
+  - Stat: 20
+    Value: 2
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: d9f7f5380f2212b4d82683c1bc36fa85, type: 2}
+  - {fileID: 11400000, guid: 7d0f9104203216146998f9ec4dc73316, type: 2}
+  - {fileID: 11400000, guid: 60db81a04748b0b46b1a0a4557450d33, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: f8e107910da028e4d9c3b7c48b99c292, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair13#A5672F
+    Horns: 
+    Armor: DruidRobe
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

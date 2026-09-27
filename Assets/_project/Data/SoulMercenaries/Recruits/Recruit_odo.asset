@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_odo
+  m_EditorClassIdentifier: 
+  Id: odo
+  DisplayName: "\uC624\uB3C4"
+  Template: {fileID: 11400000, guid: 98c16a6a48d8d7444b2dda50cb787d70, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 0
+  Founder: 0
+  Title: "\uACAC\uC2B5 \uC18C\uD658\uC0AC"
+  Concept: "\uC8FC\uBB38\uC744 \uC678\uC6B8 \uB54C \uD600\uAC00 \uAF2C\uC785\uB2C8\uB2E4.
+    \uB300\uC2E0 \uB048\uAE30\uB294 \uC788\uC2B5\uB2C8\uB2E4."
+  Up: 20
+  Down: 18
+  Stats: []
+  Growth: []
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: 44a9948843b23e74198906c9b9c6bc67, type: 2}
+  - {fileID: 11400000, guid: 44ae54fbd955c22469cad9ac0719425e, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 88297e02fe70af74588544f4fc981951, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair10#2B2522
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

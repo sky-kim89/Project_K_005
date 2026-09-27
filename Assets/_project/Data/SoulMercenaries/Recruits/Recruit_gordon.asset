@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_gordon
+  m_EditorClassIdentifier: 
+  Id: gordon
+  DisplayName: "\uACE0\uB4E0"
+  Template: {fileID: 11400000, guid: d63dc6af758ef7148951ff90d15bef71, type: 2}
+  Race: {fileID: 11400000, guid: 4d72c16d2aa18cc42867cf8eb6602758, type: 2}
+  PriceShift: 0
+  Rarity: 0
+  Founder: 0
+  Title: "\uBB38\uC9C0\uAE30"
+  Concept: "\uD55C \uAC78\uC74C\uB3C4 \uBB3C\uB7EC\uC11C\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+  Up: 17
+  Down: 18
+  Stats: []
+  Growth: []
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: afa104dd7f61d4d4eb4f53b492990706, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 46a5964de61cc844f95de17f5156c92d, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair3#3A3F6E
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

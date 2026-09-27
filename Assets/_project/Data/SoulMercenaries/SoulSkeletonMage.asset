@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulSkeletonMage
+  m_EditorClassIdentifier: 
+  Id: skeleton_mage
+  OriginMonster: "\uD574\uACE8 \uB9C8\uBC95\uC0AC"
+  Source: {fileID: 11400000, guid: 615bef71117bd464999d25a6475c65ba, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 19
+    Value: 2
+  - Stat: 20
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: d7dec572d7cb5d744a195db58bc73e01, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: b960a8e9e174e184b8c74c4828cd64c9, type: 2}
+  Passives: []
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 11400000, guid: e71ef9aa2f91ef5439c078e5546cdb82, type: 2}

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulCrystalGolemRefined
+  m_EditorClassIdentifier: 
+  Id: crystal_golem_refined
+  OriginMonster: "\uACB0\uC815 \uACE8\uB818(\uC815\uC81C)"
+  Source: {fileID: 11400000, guid: 3ea2da9f1ccb2a943a06c96f3afa55d2, type: 2}
+  Grade: 2
+  CharacteristicStats:
+  - Stat: 23
+    Value: 6
+  - Stat: 24
+    Value: 3
+  Patterns: []
+  ActiveSkills:
+  - {fileID: 11400000, guid: 81aef903df3313f4ba4a3503db015936, type: 2}
+  - {fileID: 11400000, guid: c8841ad8e3dcfb442a1d43d219c9e1eb, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 452180f66ef5d9c449a7d23bd0b35f97, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1.1
+  WeightMultiplier: 1.4
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 0}

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_haku
+  m_EditorClassIdentifier: 
+  Id: haku
+  DisplayName: "\uD558\uCFE0"
+  Template: {fileID: 11400000, guid: b921e6142311f244290163c94e1e24bb, type: 2}
+  Race: {fileID: 11400000, guid: 8adb698eb1918454887fa5719c2fdbb6, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uAD8C\uBC95\uAC00"
+  Concept: "\uC5F0\uD0C0 \uB05D\uC5D0 \uACB0\uC815\uD0C0\uB97C \uAF42\uC2B5\uB2C8\uB2E4."
+  Up: 18
+  Down: 17
+  Stats:
+  - Stat: 18
+    Value: 3
+  - Stat: 16
+    Value: 2
+  - Stat: 17
+    Value: -1
+  Growth:
+  - Stat: 18
+    Value: 1
+  - Stat: 16
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 170e364e62b555b4389344bf957620c3, type: 2}
+  - {fileID: 11400000, guid: 40f1c2ecbc06b224b84b8fddd535340c, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: 3b320e7119fc33c49896531095b2c019, type: 2}
+  - {fileID: 11400000, guid: c23d5dd850405a7479ae5a363e15a6c4, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: ed6d6dbc4ec307348b98d89e53bd6e90, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 11400000, guid: d57c3d427e5f2ca47ba64caf23c1da92, type: 2}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair8#E07090
+    Horns: 
+    Armor: Squaw
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_kael
+  m_EditorClassIdentifier: 
+  Id: kael
+  DisplayName: "\uCE74\uC5D8"
+  Template: {fileID: 11400000, guid: 98c16a6a48d8d7444b2dda50cb787d70, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uB291\uB300 \uBB34\uB9AC\uC758 \uC8FC\uC778"
+  Concept: "\uBC14\uB78C\uC758 \uB291\uB300\uB4E4\uC774 \uADF8\uC758 \uACC1\uC744
+    \uB5A0\uB098\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+  Up: 20
+  Down: 21
+  Stats:
+  - Stat: 20
+    Value: 4
+  - Stat: 19
+    Value: 3
+  - Stat: 18
+    Value: 2
+  Growth:
+  - Stat: 19
+    Value: 1
+  - Stat: 20
+    Value: 2
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: 44a9948843b23e74198906c9b9c6bc67, type: 2}
+  - {fileID: 11400000, guid: 44ae54fbd955c22469cad9ac0719425e, type: 2}
+  - {fileID: 11400000, guid: 4e7d1fc7ba76d46438692c95af80119a, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 853f12669d7dca0438dc6c9d490fb1e2, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair11#C64524
+    Horns: 
+    Armor: DeathRobe
+    Helmet: 
+    Mask: 
+    Cape: Cape#6A3A1A
+    Weapon: 
+    Shield: 

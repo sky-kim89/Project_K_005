@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_gor
+  m_EditorClassIdentifier: 
+  Id: gor
+  DisplayName: "\uACE0\uB974"
+  Template: {fileID: 11400000, guid: d63dc6af758ef7148951ff90d15bef71, type: 2}
+  Race: {fileID: 11400000, guid: 4d72c16d2aa18cc42867cf8eb6602758, type: 2}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uC0B0\uC758 \uC2EC\uC7A5"
+  Concept: "\uC0B0\uC774 \uBB34\uB108\uC9C0\uC9C0 \uC54A\uB4EF \uC4F0\uB7EC\uC9C0\uC9C0
+    \uC54A\uC2B5\uB2C8\uB2E4."
+  Up: 17
+  Down: 18
+  Stats:
+  - Stat: 17
+    Value: 5
+  - Stat: 16
+    Value: 2
+  - Stat: 20
+    Value: 2
+  - Stat: 23
+    Value: 3
+  Growth:
+  - Stat: 17
+    Value: 2
+  - Stat: 20
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 57699bb529db69a4dbf732acbfb73a1b, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: afa104dd7f61d4d4eb4f53b492990706, type: 2}
+  - {fileID: 11400000, guid: ecb28e33e0387ca47bde75c881ea4917, type: 2}
+  - {fileID: 11400000, guid: 5d72829a86ea31b42922012aa14c2ae6, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 6534b075ad6757b4fa5ffe7b36467b89, type: 2}
+  - {fileID: 11400000, guid: cfef2b0fffca860438ecc33fc07d88de, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair1#A5672F
+    Horns: 
+    Armor: Spartan
+    Helmet: 
+    Mask: 
+    Cape: Cape#6A3A1A
+    Weapon: 
+    Shield: 

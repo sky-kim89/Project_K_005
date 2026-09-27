@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f20b8e9f122e64993b922e75eb9293, type: 3}
+  m_Name: SkillChainLightningPlus
+  m_EditorClassIdentifier: 
+  SkillName: "\uB1CC\uC2E0\uC758 \uC0AC\uC2AC"
+  Description: "\uBC88\uAC1C\uAC00 \uC801\uC5D0\uC11C \uC801\uC73C\uB85C \uD295\uACA8
+    \uB098\uAC11\uB2C8\uB2E4. (\uC11C\uACE0\uC5D0\uC11C \uAC15\uD654\uB41C \uC0C1\uC704
+    \uC2A4\uD0AC)"
+  Cooldown: 2.5600002
+  SoulId: chain_lightning_plus
+  Trigger: 3
+  RequiredPattern: {fileID: 0}
+  Costs:
+  - Resource: 1
+    Amount: 35
+  DamageSchool: 1
+  DamageKind: 6
+  Damage:
+    Flat: 37.8
+    Terms:
+    - Stat: 19
+      Factor: 4.8599997
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  HealsWounds: 0
+  Barrier:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  SpiritLook: 
+  SpiritInterval: 1.2
+  WoundChance:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  RequiredJob: "\uB9C8\uBC95\uC0AC"
+  Imbue:
+    Kind: 0
+    Chance:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 1
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+  ReviveRatio: 0
+  BookTier: 2
+  UpgradeTo: {fileID: 0}
+  Chance:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Radius:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Duration:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Knockback: 0
+  Range: 5
+  CastTime: 1.2
+  Status:
+    Kind: 6
+    Chance:
+      Flat: 0.18
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 0.5
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 2
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+  Icon: {fileID: 21300000, guid: 5e581520cf0acd949bf879a0dd726a4d, type: 3}
+  SelfBuffs: []
+  Technique: 0
+  ExecuteBelow: 0
+  DrainMana: 0
+  Line: 0
+  Chain: 3
+  Field: 0
+  GuardShare: 0
+  Cleanse: 0
+  HpCost: 0
+  Shortcut: 0
+  Instant: 1
+  AtTarget: 0
+  Width: 0
+  Pull: 0
+  Drain: 0
+  Sap: 0
+  Steal: 0
+  Dispel: 0
+  Behind: 0
+  Retreat: 0
+  Extra:
+    Kind: 0
+    Chance:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 1
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+  Burst: 0
+  Mass: 0
+  OncePerFloor: 0
+  LeapToTarget: 0
+  WeightThreshold: 0

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_mira
+  m_EditorClassIdentifier: 
+  Id: mira
+  DisplayName: "\uBBF8\uB77C"
+  Template: {fileID: 11400000, guid: b921e6142311f244290163c94e1e24bb, type: 2}
+  Race: {fileID: 0}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uAD11\uC804\uC0AC"
+  Concept: "\uD53C\uB97C \uBCFC\uC218\uB85D \uAC15\uD574\uC9D1\uB2C8\uB2E4. \uBB3C\uB7EC\uC124
+    \uC904\uC744 \uBAA8\uB985\uB2C8\uB2E4."
+  Up: 17
+  Down: 21
+  Stats:
+  - Stat: 16
+    Value: 3
+  - Stat: 17
+    Value: 2
+  - Stat: 20
+    Value: -1
+  Growth:
+  - Stat: 16
+    Value: 2
+  Patterns:
+  - {fileID: 11400000, guid: 7677e878f53377e4db9589d7343271db, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: 3b320e7119fc33c49896531095b2c019, type: 2}
+  - {fileID: 11400000, guid: c23d5dd850405a7479ae5a363e15a6c4, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 955102e86e0962c4e84e743d0a2afb57, type: 2}
+  - {fileID: 11400000, guid: 2e42a87471a98a84ea6f869785446aaa, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair13#8A1A1A
+    Horns: 
+    Armor: Gladiator
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

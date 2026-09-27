@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f20b8e9f122e64993b922e75eb9293, type: 3}
+  m_Name: SkillFrostPrisonPlus
+  m_EditorClassIdentifier: 
+  SkillName: "\uC601\uAC81\uC758 \uC5BC\uC74C"
+  Description: "\uB300\uC0C1\uC744 \uC5BC\uC74C \uC18D\uC5D0 \uAC00\uB461\uB2C8\uB2E4.
+    (\uC11C\uACE0\uC5D0\uC11C \uAC15\uD654\uB41C \uC0C1\uC704 \uC2A4\uD0AC)"
+  Cooldown: 4.48
+  SoulId: frost_prison_plus
+  Trigger: 9
+  RequiredPattern: {fileID: 0}
+  Costs:
+  - Resource: 1
+    Amount: 32
+  DamageSchool: 1
+  DamageKind: 7
+  Damage:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  HealsWounds: 0
+  Barrier:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  SpiritLook: 
+  SpiritInterval: 1.2
+  WoundChance:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  RequiredJob: "\uB9C8\uBC95\uC0AC"
+  Imbue:
+    Kind: 0
+    Chance:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 1
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+  ReviveRatio: 0
+  BookTier: 1
+  UpgradeTo: {fileID: 0}
+  Chance:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Radius:
+    Flat: 0.8
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Duration:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Knockback: 0
+  Range: 5
+  CastTime: 1.4
+  Status:
+    Kind: 5
+    Chance:
+      Flat: 0.96000004
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 2.5
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 2
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+  Icon: {fileID: 21300000, guid: c101a8e1e31f5c049aed1113bd47f131, type: 3}
+  SelfBuffs: []
+  Technique: 0
+  ExecuteBelow: 0
+  DrainMana: 0
+  Line: 0
+  Chain: 0
+  Field: 0
+  GuardShare: 0
+  Cleanse: 0
+  HpCost: 0
+  Shortcut: 0
+  Instant: 0
+  AtTarget: 0
+  Width: 0
+  Pull: 0
+  Drain: 0
+  Sap: 0
+  Steal: 0
+  Dispel: 0
+  Behind: 0
+  Retreat: 0
+  Extra:
+    Kind: 0
+    Chance:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 1
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+  Burst: 0
+  Mass: 0
+  OncePerFloor: 0
+  LeapToTarget: 0
+  WeightThreshold: 0

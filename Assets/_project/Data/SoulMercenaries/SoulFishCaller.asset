@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulFishCaller
+  m_EditorClassIdentifier: 
+  Id: fish_caller
+  OriginMonster: "\uC5B4\uC778 \uBB3C\uC220\uC0AC"
+  Source: {fileID: 11400000, guid: b2d7b3f45078eca4fa6f4c8570903c03, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 19
+    Value: 3
+  Patterns:
+  - {fileID: 11400000, guid: 572c56d2c580f9a48bcfaed13871afbe, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: 1094fb582189a1d4fa9a9945373c7e49, type: 2}
+  Passives: []
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 11400000, guid: 043d12eca0c30324f8074199b9262f40, type: 2}

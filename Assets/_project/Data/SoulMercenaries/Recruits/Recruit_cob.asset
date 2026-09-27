@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_cob
+  m_EditorClassIdentifier: 
+  Id: cob
+  DisplayName: "\uCF54\uBE0C"
+  Template: {fileID: 11400000, guid: 2c6fa7b3892afbf4995457e6f7b071a7, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uB3C4\uC801"
+  Concept: "\uC8FC\uBA38\uB2C8\uC640 \uC0C1\uC790\uB77C\uBA74 \uBB50\uB4E0 \uC5FD\uB2C8\uB2E4."
+  Up: 21
+  Down: 20
+  Stats:
+  - Stat: 21
+    Value: 3
+  - Stat: 18
+    Value: 2
+  - Stat: 20
+    Value: -1
+  Growth:
+  - Stat: 21
+    Value: 2
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: f9e431770af5afc47a3055ea39b8b2a8, type: 2}
+  - {fileID: 11400000, guid: 8d95a10bf5e9c6446a38f6962be03d88, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 8c1fa3b6e199aa14eaac8fd215cc74e4, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair11#4E6E3A
+    Horns: 
+    Armor: Arabian
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19972297e4283214d9a7c2f23716ee12, type: 3}
+  m_Name: EquipmentKnightSword
+  m_EditorClassIdentifier: 
+  Id: knight_sword
+  DisplayName: "\uAE30\uC0AC\uC758 \uAC80"
+  Kind: "\uD55C\uC190\uAC80"
+  Slot: 0
+  TwoHanded: 0
+  WeaponTag: sword
+  BaseWeight: 3
+  Material: 8
+  Unique: 0
+  FixedGrade: 3
+  Price: 140
+  ShopTier: 3
+  DropFloor: 4
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: RoyalLongsword
+    Shield: 
+  Icon: {fileID: 21300000, guid: b1bc9ccedde298042813e7d2da15dcab, type: 3}
+  BasicAttack: {fileID: 11400000, guid: 92ca46cd9e7ebc546b2291e8e91c632e, type: 2}
+  Bonuses:
+  - Stat: 2
+    Value: 5
+  - Stat: 26
+    Value: 1
+  - Stat: 37
+    Value: 0.02
+  Patterns: []
+  ActiveSkills: []
+  Passives: []

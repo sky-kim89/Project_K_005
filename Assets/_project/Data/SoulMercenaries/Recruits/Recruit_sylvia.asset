@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_sylvia
+  m_EditorClassIdentifier: 
+  Id: sylvia
+  DisplayName: "\uC2E4\uBE44\uC544"
+  Template: {fileID: 11400000, guid: 2b35804c9c67b814f92b04c0bec75e39, type: 2}
+  Race: {fileID: 11400000, guid: 7c4eaeaed77cbab45894055079391426, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uD658\uC601\uC220\uC0AC"
+  Concept: "\uC5B4\uB514\uC5D0 \uC788\uB294\uC9C0 \uC54C \uC218 \uC5C6\uC2B5\uB2C8\uB2E4."
+  Up: 18
+  Down: 16
+  Stats:
+  - Stat: 19
+    Value: 3
+  - Stat: 18
+    Value: 2
+  - Stat: 16
+    Value: -1
+  Growth:
+  - Stat: 18
+    Value: 1
+  - Stat: 19
+    Value: 1
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: d9f7f5380f2212b4d82683c1bc36fa85, type: 2}
+  - {fileID: 11400000, guid: 5f337c5ce472eca4ea71ab7d93a8c400, type: 2}
+  - {fileID: 11400000, guid: 45110b6c5fbe4a24084abcf4fde7be58, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: ac670be9a97808345bc83ea89c01c3ba, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair3#D8B25A
+    Horns: 
+    Armor: FireWizardRobe
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

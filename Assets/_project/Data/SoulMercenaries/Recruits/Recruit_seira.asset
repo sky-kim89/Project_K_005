@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_seira
+  m_EditorClassIdentifier: 
+  Id: seira
+  DisplayName: "\uC138\uC774\uB77C"
+  Template: {fileID: 11400000, guid: 2a23312e9c3673e4fb10d2d73eb6b752, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uACB0\uD22C\uAC00"
+  Concept: "\uC77C\uB300\uC77C\uC774\uB77C\uBA74 \uB204\uAD6C\uC5D0\uAC8C\uB3C4 \uC9C0\uC9C0
+    \uC54A\uC2B5\uB2C8\uB2E4."
+  Up: 18
+  Down: 21
+  Stats:
+  - Stat: 18
+    Value: 3
+  - Stat: 16
+    Value: 2
+  - Stat: 21
+    Value: -1
+  Growth:
+  - Stat: 18
+    Value: 1
+  - Stat: 16
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 0ec79f7fb1a26314780f7505718431bd, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: 2df90669a0d8da9438af9281f085c6c1, type: 2}
+  - {fileID: 11400000, guid: d5038cb3f0015154485406ab67ae2028, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 612012414d7b5d24db980d04cd62e957, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair10#C64524
+    Horns: 
+    Armor: CrossKnight
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulDemigod
+  m_EditorClassIdentifier: 
+  Id: demigod
+  OriginMonster: "\uD0C0\uB77D\uD55C \uBC18\uC2E0"
+  Source: {fileID: 11400000, guid: e11cee7e3b37fb34f8cce3e18e478687, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 20
+    Value: 3
+  - Stat: 16
+    Value: 2
+  Patterns: []
+  ActiveSkills:
+  - {fileID: 11400000, guid: eef57a2617702024598b73a5398f3b13, type: 2}
+  Passives: []
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 11400000, guid: 9b87241652febf345ac0b5febe3a7d07, type: 2}

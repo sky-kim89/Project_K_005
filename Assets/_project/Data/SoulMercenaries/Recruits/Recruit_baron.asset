@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_baron
+  m_EditorClassIdentifier: 
+  Id: baron
+  DisplayName: "\uBC14\uB860"
+  Template: {fileID: 11400000, guid: d63dc6af758ef7148951ff90d15bef71, type: 2}
+  Race: {fileID: 0}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uBD88\uAD74\uC758 \uC694\uC0C8"
+  Concept: "\uC4F0\uB7EC\uC9C0\uC9C0 \uC54A\uB294 \uBCBD. \uB3CC \uAC19\uC740 \uD53C\uBD80\uB97C
+    \uD0C0\uACE0\uB0AC\uC2B5\uB2C8\uB2E4."
+  Up: 20
+  Down: 18
+  Stats:
+  - Stat: 17
+    Value: 5
+  - Stat: 20
+    Value: 3
+  - Stat: 23
+    Value: 3
+  - Stat: 16
+    Value: 1
+  Growth:
+  - Stat: 17
+    Value: 2
+  - Stat: 20
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 57699bb529db69a4dbf732acbfb73a1b, type: 2}
+  - {fileID: 11400000, guid: 4216b3e6fb84c49449d3dc78c2380226, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: afa104dd7f61d4d4eb4f53b492990706, type: 2}
+  - {fileID: 11400000, guid: 41def67924b353f479c1d493aa98b706, type: 2}
+  - {fileID: 11400000, guid: 1711c2a40a603c64cbf89bf99f1f79b0, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 261404be22f57404eb33c25817e81c23, type: 2}
+  - {fileID: 11400000, guid: cfef2b0fffca860438ecc33fc07d88de, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair5#D8D8D8
+    Horns: 
+    Armor: IronKnight
+    Helmet: 
+    Mask: 
+    Cape: Cape#2E3E6E
+    Weapon: 
+    Shield: 

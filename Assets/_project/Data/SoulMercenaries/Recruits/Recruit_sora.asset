@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_sora
+  m_EditorClassIdentifier: 
+  Id: sora
+  DisplayName: "\uC18C\uB77C"
+  Template: {fileID: 11400000, guid: 98c16a6a48d8d7444b2dda50cb787d70, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 0
+  Founder: 0
+  Title: "\uBC14\uB78C\uC744 \uB4E3\uB294 \uC544\uC774"
+  Concept: "\uBC14\uB78C\uC774 \uD558\uB294 \uB9D0\uC744 \uC54C\uC544\uB4E3\uC2B5\uB2C8\uB2E4."
+  Up: 19
+  Down: 17
+  Stats: []
+  Growth: []
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: 44a9948843b23e74198906c9b9c6bc67, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 2cca13503d9a1ea4d88b1d7d089061ca, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair5#C64524
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

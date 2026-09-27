@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_organ
+  m_EditorClassIdentifier: 
+  Id: organ
+  DisplayName: "\uC624\uB974\uAC04"
+  Template: {fileID: 11400000, guid: 2b35804c9c67b814f92b04c0bec75e39, type: 2}
+  Race: {fileID: 0}
+  PriceShift: 0
+  Rarity: 0
+  Founder: 0
+  Title: 
+  Concept: "\uBC30\uC6B4 \uB300\uB85C \uC8FC\uBB38\uC744 \uC678\uB294 \uB9C8\uBC95\uC0AC\uC785\uB2C8\uB2E4."
+  Up: 19
+  Down: 16
+  Stats: []
+  Growth: []
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: d9f7f5380f2212b4d82683c1bc36fa85, type: 2}
+  - {fileID: 11400000, guid: 710d3d120eecfb048a8b820e99d72169, type: 2}
+  Passives: []
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair7#A5672F
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

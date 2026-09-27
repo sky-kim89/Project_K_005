@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67deb1c9581b9434bb20a2fa0ee4e38e, type: 3}
+  m_Name: MonsterToadLord
+  m_EditorClassIdentifier: 
+  Id: "\uB2AA\uC758 \uAD70\uC8FC"
+  Stats:
+  - Stat: 17
+    Value: 140
+  - Stat: 16
+    Value: 16
+  - Stat: 23
+    Value: 10
+  - Stat: 27
+    Value: 8
+  - Stat: 20
+    Value: 12
+  - Stat: 49
+    Value: 2.5
+  Patterns:
+  - {fileID: 11400000, guid: be93bfabd595eb049ba3346500ad6d5a, type: 2}
+  - {fileID: 11400000, guid: a2ed98eede175424f8ac81710a84c70c, type: 2}
+  - {fileID: 11400000, guid: 3f7c4408278b39741be9ed1c2d687090, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: e7392fc01bd5cf94cb0970636c8842f2, type: 2}
+  - {fileID: 11400000, guid: a6aae37bf03e1924f862bd3d3db4fd89, type: 2}
+  Passives: []
+  Height: 2.6
+  Weight: 260
+  Experience: 30
+  Gold: 40
+  SoulDropChance: 0.4
+  DroppedSoul: {fileID: 11400000, guid: c4af9553e9b308841a6f559a111f0c76, type: 2}
+  Guardian: 1
+  Elite: 0
+  Evasive: 0
+  Undead: 0
+  Telegraphs:
+  - {fileID: 11400000, guid: c2ddc7948e3b9464fa4339dd6dde6f0a, type: 2}
+  - {fileID: 11400000, guid: 8b5b30e65089d58458dfa228bedc3cba, type: 2}
+  - {fileID: 11400000, guid: 2be31bea5ba85e040bf001d24b85761a, type: 2}
+  - {fileID: 11400000, guid: b94f6c123c8de9349aa029583d6dd03e, type: 2}
+  DisplayName: "\uB2AA\uC758 \uAD70\uC8FC"
+  UseMonsterSprite: 0
+  MonsterRace: 16
+  Appearance:
+    Body: Froggy
+    Head: Froggy
+    Ears: 
+    Eyes: Froggy
+    Hair: 
+    Armor: Chief
+    Helmet: 
+    Mask: 
+    Horns: 
+    Cape: 
+    Weapon: Crusher
+    Shield: 
+    Back: 
+    Firearm: 
+  Tint: {r: 0.8, g: 1, b: 0.75, a: 1}
+  Portrait: {fileID: -51100067553296248, guid: c0641e628e7e9164e8cc2ed024df6ce2, type: 3}

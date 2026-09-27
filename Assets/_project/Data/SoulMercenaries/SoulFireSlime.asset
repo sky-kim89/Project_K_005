@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulFireSlime
+  m_EditorClassIdentifier: 
+  Id: fire_slime
+  OriginMonster: "\uBD88 \uC2AC\uB77C\uC784"
+  Source: {fileID: 11400000, guid: 69e891be74eb60c4aad2bd187898e948, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 19
+    Value: 1
+  - Stat: 17
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: dbe894c09fd0fd34caaca00b5ba2524c, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: 63a5733402dca6d409fb6380544fd1fc, type: 2}
+  - {fileID: 11400000, guid: 570066f45417ca94fbfab450c5042243, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: b3b36c1c47a1951438833a361fcc5e13, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 11400000, guid: dbb11d5ac09dbb44aa9bff62b4f45427, type: 2}

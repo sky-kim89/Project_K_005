@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2059dbcade6e660458581368c2f38641, type: 3}
+  m_Name: PassiveSig_agnes
+  m_EditorClassIdentifier: 
+  SkillName: "\uAC04\uD638"
+  Description: "\uCE58\uC720 \uC2A4\uD0AC\uC774 \uBD80\uC0C1\uC744 \uD558\uB098 \uB354
+    \uCE58\uB8CC\uD569\uB2C8\uB2E4."
+  Icon: {fileID: 21300000, guid: 384d3ffebc7bb4a48aefaceddf1ef75d, type: 3}
+  SoulId: sig_agnes
+  SoulEvent: 0
+  Every: 1
+  AlwaysBonuses:
+  - Stat: 102
+    Value: 1
+  Damage:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Stamina: 0
+  MapTraits: 0

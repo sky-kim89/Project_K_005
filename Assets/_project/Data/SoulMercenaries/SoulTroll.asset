@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulTroll
+  m_EditorClassIdentifier: 
+  Id: troll
+  OriginMonster: "\uD2B8\uB864"
+  Source: {fileID: 11400000, guid: 897554e201ac2d54197b50937ce05b8f, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 17
+    Value: 4
+  - Stat: 22
+    Value: 2
+  Patterns: []
+  ActiveSkills:
+  - {fileID: 11400000, guid: 84f6d3b77c0f0444c8b18473ce7a8ea1, type: 2}
+  - {fileID: 11400000, guid: 730558a6ee8ab974ba0a32726100ddd5, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 0d8b4408f4540a648983b9608ea3fe18, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1.1
+  WeightMultiplier: 1.35
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 11400000, guid: ece06ca56dd4d854aac49f3a90b63410, type: 2}

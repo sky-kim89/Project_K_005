@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19972297e4283214d9a7c2f23716ee12, type: 3}
+  m_Name: EquipmentWizardRobe
+  m_EditorClassIdentifier: 
+  Id: wizard_robe
+  DisplayName: "\uB9C8\uBC95\uC0AC \uB85C\uBE0C"
+  Kind: "\uCC9C \uB85C\uBE0C"
+  Slot: 2
+  TwoHanded: 0
+  WeaponTag: 
+  BaseWeight: 2
+  Material: 1
+  Unique: 0
+  FixedGrade: 3
+  Price: 60
+  ShopTier: 1
+  DropFloor: 1
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: BlueWizardTunic
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  Icon: {fileID: 21300000, guid: a577abd519526b448950e9845d89d7ef, type: 3}
+  BasicAttack: {fileID: 0}
+  Bonuses:
+  - Stat: 31
+    Value: 1
+  - Stat: 33
+    Value: 0.03
+  Patterns: []
+  ActiveSkills: []
+  Passives: []

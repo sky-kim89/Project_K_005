@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2059dbcade6e660458581368c2f38641, type: 3}
+  m_Name: PassiveSig_nate
+  m_EditorClassIdentifier: 
+  SkillName: "\uB3C5\uC11C\uAC00"
+  Description: "\uC11C\uACE0\uC5D0\uC11C \uC2A4\uD0AC\uBD81\uC744 \uC4F8 \uB54C 30%
+    \uD655\uB960\uB85C \uCC45\uC774 \uB0A8\uC2B5\uB2C8\uB2E4."
+  Icon: {fileID: 21300000, guid: 49f498315cff2234ebf84c40bb315f88, type: 3}
+  SoulId: sig_nate
+  SoulEvent: 0
+  Every: 1
+  AlwaysBonuses:
+  - Stat: 93
+    Value: 0.3
+  Damage:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Stamina: 0
+  MapTraits: 0

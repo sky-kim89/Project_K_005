@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_gar
+  m_EditorClassIdentifier: 
+  Id: gar
+  DisplayName: "\uAC00\uB974"
+  Template: {fileID: 11400000, guid: b921e6142311f244290163c94e1e24bb, type: 2}
+  Race: {fileID: 11400000, guid: 8adb698eb1918454887fa5719c2fdbb6, type: 2}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uD53C\uC758 \uAD70\uC8FC"
+  Concept: "\uD53C\uB97C \uB9C8\uC2E4\uC218\uB85D \uBA48\uCD94\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+  Up: 17
+  Down: 20
+  Stats:
+  - Stat: 16
+    Value: 4
+  - Stat: 17
+    Value: 4
+  - Stat: 18
+    Value: 2
+  Growth:
+  - Stat: 16
+    Value: 1
+  - Stat: 17
+    Value: 2
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: 3b320e7119fc33c49896531095b2c019, type: 2}
+  - {fileID: 11400000, guid: c23d5dd850405a7479ae5a363e15a6c4, type: 2}
+  - {fileID: 11400000, guid: 2df90669a0d8da9438af9281f085c6c1, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: c054a20067764824ea13c711ae8185cf, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair2#B8C8F8
+    Horns: 
+    Armor: BanditTunic
+    Helmet: 
+    Mask: 
+    Cape: Cape#2E3E6E
+    Weapon: 
+    Shield: 

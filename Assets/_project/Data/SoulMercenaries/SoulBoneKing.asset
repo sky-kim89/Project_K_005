@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulBoneKing
+  m_EditorClassIdentifier: 
+  Id: bone_king
+  OriginMonster: "\uBF08\uC758 \uC655"
+  Source: {fileID: 11400000, guid: c234586ea4d7f8b47b4072ea956c5fdc, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 20
+    Value: 4
+  Patterns:
+  - {fileID: 11400000, guid: d7dec572d7cb5d744a195db58bc73e01, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: e70f9fb1a17ad88489509eba7ee42883, type: 2}
+  - {fileID: 11400000, guid: b0143a42a933d72408f15cc70286a708, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 84f6f1abdbe13fd449454a1b110c259b, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 11400000, guid: 47167c5d985cc024cb51edbf8449d127, type: 2}

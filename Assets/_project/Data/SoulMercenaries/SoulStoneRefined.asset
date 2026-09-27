@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulStoneRefined
+  m_EditorClassIdentifier: 
+  Id: stone_refined
+  OriginMonster: "\uACE0\uB300 \uC11D\uC0C1(\uC815\uC81C)"
+  Source: {fileID: 11400000, guid: 2c878ffae521a7c439102c42c8025028, type: 2}
+  Grade: 2
+  CharacteristicStats:
+  - Stat: 23
+    Value: 6
+  Patterns:
+  - {fileID: 11400000, guid: a2ed98eede175424f8ac81710a84c70c, type: 2}
+  - {fileID: 11400000, guid: 2b7a0ae4a23f2de4d848b2281ef738ca, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: 68926a50db9624b42ac7be8ae8060ad8, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: cfef2b0fffca860438ecc33fc07d88de, type: 2}
+  Appearance:
+    Body: Human#9C9FA3
+    Head: Human#9C9FA3
+    Ears: Human#9C9FA3
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1.3
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 0}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2059dbcade6e660458581368c2f38641, type: 3}
+  m_Name: PassiveSig_marta
+  m_EditorClassIdentifier: 
+  SkillName: "\uC190\uC9C8\uB41C \uC7A5\uBE44"
+  Description: "\uBC29\uC5B4\uB825\uC774 3, \uB0B4\uAD6C\uB3C4\uAC00 2 \uC624\uB985\uB2C8\uB2E4."
+  Icon: {fileID: 21300000, guid: 74b84a9f3f1ef8c4b9f852ffc11ed2b9, type: 3}
+  SoulId: sig_marta
+  SoulEvent: 0
+  Every: 1
+  AlwaysBonuses:
+  - Stat: 31
+    Value: 3
+  - Stat: 23
+    Value: 2
+  Damage:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Stamina: 0
+  MapTraits: 0

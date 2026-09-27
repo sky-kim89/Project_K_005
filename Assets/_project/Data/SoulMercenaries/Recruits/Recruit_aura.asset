@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_aura
+  m_EditorClassIdentifier: 
+  Id: aura
+  DisplayName: "\uC544\uC6B0\uB77C"
+  Template: {fileID: 11400000, guid: 2c6fa7b3892afbf4995457e6f7b071a7, type: 2}
+  Race: {fileID: 11400000, guid: 7c4eaeaed77cbab45894055079391426, type: 2}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uBC14\uB78C\uC758 \uC0AC\uC218"
+  Concept: "\uBC14\uB78C\uC744 \uD0C0\uACE0 \uC3D8\uB294 \uD654\uC0B4\uC740 \uBA48\uCD94\uC9C0
+    \uC54A\uC2B5\uB2C8\uB2E4."
+  Up: 18
+  Down: 16
+  Stats:
+  - Stat: 18
+    Value: 5
+  - Stat: 21
+    Value: 3
+  - Stat: 20
+    Value: 2
+  Growth:
+  - Stat: 18
+    Value: 2
+  - Stat: 21
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 4a3d77ac7ec442b4eb8a840833c1b82f, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: f9e431770af5afc47a3055ea39b8b2a8, type: 2}
+  - {fileID: 11400000, guid: 727c1779705ba2b4d8a344b115862a6f, type: 2}
+  - {fileID: 11400000, guid: afe2420f841ff33439df4998569aef7b, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 9bbc30fa78918064186319c434d9c559, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair8#A5672F
+    Horns: 
+    Armor: Arabian
+    Helmet: 
+    Mask: 
+    Cape: Cape#2E3E6E
+    Weapon: 
+    Shield: 

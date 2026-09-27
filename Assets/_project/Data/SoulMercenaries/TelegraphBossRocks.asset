@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae375e71917f3ba4c8082b59da0a1e80, type: 3}
+  m_Name: TelegraphBossRocks
+  m_EditorClassIdentifier: 
+  Id: boss_rocks
+  SkillName: "\uB099\uC11D"
+  Shape: 0
+  Anchor: 2
+  Size: 1.8
+  Width: 1
+  WindUp: 1.4
+  Rest: 2.5
+  TriggerRange: 8
+  DamageSchool: 0
+  DamageKind: 1
+  Damage:
+    Flat: 9
+    Terms:
+    - Stat: 16
+      Factor: 0.4
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Knockback: 0
+  Status:
+    Kind: 0
+    Chance:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 1
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9

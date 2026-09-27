@@ -1,0 +1,32 @@
+# Unity 자동 생성 폴더
+/Library/
+/Temp/
+/Logs/
+/UserSettings/
+/.utmp/
+/.assetgen/
+/.unity_generate/
+/.validate/
+/prototype/
+# Visual Studio 자동 생성 파일
+*.slnx
+*.sln
+*.csproj
+
+# VS Code 개인 설정
+/.vscode/
+
+# 빌드 결과물
+/Build/
+/Builds/
+
+# 에셋 메타 파일 (Assets 폴더 외부)
+*.pidb.meta
+*.pdb.meta
+
+# OS 관련
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/

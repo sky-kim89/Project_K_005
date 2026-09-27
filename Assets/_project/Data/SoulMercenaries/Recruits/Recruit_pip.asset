@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_pip
+  m_EditorClassIdentifier: 
+  Id: pip
+  DisplayName: "\uD54D"
+  Template: {fileID: 11400000, guid: 5ce10672b5a1acc4ca1f7d9b19bf6775, type: 2}
+  Race: {fileID: 11400000, guid: 7c4eaeaed77cbab45894055079391426, type: 2}
+  PriceShift: 0
+  Rarity: 0
+  Founder: 0
+  Title: "\uC232\uC9C0\uAE30"
+  Concept: "\uB098\uBB34 \uC0AC\uC774\uB97C \uC18C\uB9AC \uC5C6\uC774 \uAC77\uC2B5\uB2C8\uB2E4."
+  Up: 18
+  Down: 16
+  Stats: []
+  Growth: []
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: 353fe3d7fe4e8874db83f84924815569, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 6670056b6943d374691eba627fc16db7, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair2#A5672F
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

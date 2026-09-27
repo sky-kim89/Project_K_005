@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_ethan
+  m_EditorClassIdentifier: 
+  Id: ethan
+  DisplayName: "\uC5D0\uB2E8"
+  Template: {fileID: 11400000, guid: 2c6fa7b3892afbf4995457e6f7b071a7, type: 2}
+  Race: {fileID: 0}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uC804\uC124\uC758 \uD0D0\uD5D8\uAC00"
+  Concept: "\uC9C0\uCE58\uC9C0 \uC54A\uB294 \uBC1C\uAC78\uC74C. \uC5B4\uB5A4 \uAE38\uB3C4
+    \uB450\uB835\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+  Up: 18
+  Down: 16
+  Stats:
+  - Stat: 21
+    Value: 4
+  - Stat: 18
+    Value: 3
+  - Stat: 20
+    Value: 2
+  - Stat: 17
+    Value: 1
+  Growth:
+  - Stat: 21
+    Value: 1
+  - Stat: 18
+    Value: 1
+  - Stat: 20
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 4a3d77ac7ec442b4eb8a840833c1b82f, type: 2}
+  - {fileID: 11400000, guid: 33089d6745cd79142a111e3b2c6097c5, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: f9e431770af5afc47a3055ea39b8b2a8, type: 2}
+  - {fileID: 11400000, guid: e68815c787744e64e831c2ed9f1d0554, type: 2}
+  - {fileID: 11400000, guid: 24e3a3221ab80e74fa7ed09f51646403, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: b469543e8c8b2044d86664c0fee9278c, type: 2}
+  - {fileID: 11400000, guid: 79ae390b16395c5439834fb87fa65c3b, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair4#A07040
+    Horns: 
+    Armor: Arabian
+    Helmet: 
+    Mask: 
+    Cape: Cape#2A6A4A
+    Weapon: 
+    Shield: 

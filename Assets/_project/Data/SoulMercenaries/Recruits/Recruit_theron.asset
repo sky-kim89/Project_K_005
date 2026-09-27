@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_theron
+  m_EditorClassIdentifier: 
+  Id: theron
+  DisplayName: "\uD14C\uB860"
+  Template: {fileID: 11400000, guid: 2b35804c9c67b814f92b04c0bec75e39, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uC804\uD22C \uB9C8\uBC95\uC0AC"
+  Concept: "\uAC80\uC744 \uC950\uACE0\uB3C4 \uC8FC\uBB38\uC744 \uC689\uB2C8\uB2E4."
+  Up: 16
+  Down: 21
+  Stats:
+  - Stat: 19
+    Value: 3
+  - Stat: 16
+    Value: 2
+  - Stat: 21
+    Value: -1
+  Growth:
+  - Stat: 19
+    Value: 1
+  - Stat: 16
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 92ca46cd9e7ebc546b2291e8e91c632e, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: d9f7f5380f2212b4d82683c1bc36fa85, type: 2}
+  - {fileID: 11400000, guid: e8c2fda311cb6a947aa20df0646ec7ee, type: 2}
+  - {fileID: 11400000, guid: f071b35bc0d97594689dbc4cf868b19b, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: e0a0dfdf2e89a4f4e82fc4961df328c0, type: 2}
+  Frontline: 1
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair10#2B2522
+    Horns: 
+    Armor: DruidRobe
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

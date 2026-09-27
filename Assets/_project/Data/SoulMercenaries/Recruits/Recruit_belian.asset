@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_belian
+  m_EditorClassIdentifier: 
+  Id: belian
+  DisplayName: "\uBCA8\uB9AC\uC548"
+  Template: {fileID: 11400000, guid: 2b35804c9c67b814f92b04c0bec75e39, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uD751\uB9C8\uB3C4\uC0AC"
+  Concept: "\uC8FD\uC74C\uC5D0\uC11C \uB9C8\uB825\uC744 \uAC70\uB461\uB2C8\uB2E4."
+  Up: 19
+  Down: 21
+  Stats:
+  - Stat: 19
+    Value: 5
+  - Stat: 20
+    Value: 3
+  - Stat: 17
+    Value: 1
+  Growth:
+  - Stat: 19
+    Value: 2
+  - Stat: 20
+    Value: 1
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: d9f7f5380f2212b4d82683c1bc36fa85, type: 2}
+  - {fileID: 11400000, guid: 7d0f9104203216146998f9ec4dc73316, type: 2}
+  - {fileID: 11400000, guid: 09b349253a9f38c4aabe7fd94cf944f2, type: 2}
+  - {fileID: 11400000, guid: eb5c3326596ab01418718828898b2ec2, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 3264def66ea697a4084f43c68ce962bf, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair3#2B2522
+    Horns: 
+    Armor: DruidRobe
+    Helmet: 
+    Mask: 
+    Cape: Cape#5A3A9A
+    Weapon: 
+    Shield: 

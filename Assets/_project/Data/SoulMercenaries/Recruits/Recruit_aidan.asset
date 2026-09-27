@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_aidan
+  m_EditorClassIdentifier: 
+  Id: aidan
+  DisplayName: "\uC5D0\uC774\uB2E8"
+  Template: {fileID: 11400000, guid: 2b35804c9c67b814f92b04c0bec75e39, type: 2}
+  Race: {fileID: 11400000, guid: 7c4eaeaed77cbab45894055079391426, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uBE59\uACB0\uC220\uC0AC"
+  Concept: "\uC228\uACB0\uB9C8\uC800 \uC5BC\uC5B4\uBD99\uC2B5\uB2C8\uB2E4."
+  Up: 19
+  Down: 17
+  Stats:
+  - Stat: 19
+    Value: 3
+  - Stat: 20
+    Value: 2
+  - Stat: 17
+    Value: -1
+  Growth:
+  - Stat: 19
+    Value: 2
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: d9f7f5380f2212b4d82683c1bc36fa85, type: 2}
+  - {fileID: 11400000, guid: eb5c3326596ab01418718828898b2ec2, type: 2}
+  - {fileID: 11400000, guid: 60db81a04748b0b46b1a0a4557450d33, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: fd6c3a3db9c4cc84b91c312450ccd75b, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair2#4E6E3A
+    Horns: 
+    Armor: FireWizardRobe
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

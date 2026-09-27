@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace17c7ddcf22b64ab0e5d298b1558fc, type: 3}
+  m_Name: EnemyMonsterCatalog
+  m_EditorClassIdentifier: 
+  Hog: {fileID: 11400000, guid: d4e752adb6cf48c0a5f228f19f6e6834, type: 2}
+  Slug: {fileID: 11400000, guid: 9509a1a666ca4a80b418d45dc18b07c6, type: 2}
+  Troll: {fileID: 11400000, guid: 759ccbae978040e1a8f7474d045b4553, type: 2}
+  Wolf: {fileID: 11400000, guid: cf04a523a60841b4b09f57db2bcdaa7b, type: 2}

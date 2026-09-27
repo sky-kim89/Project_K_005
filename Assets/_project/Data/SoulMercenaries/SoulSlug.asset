@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulSlug
+  m_EditorClassIdentifier: 
+  Id: slug
+  OriginMonster: "\uB3C5 \uC2AC\uB77C\uC784"
+  Source: {fileID: 11400000, guid: ab22060abb1f1a3429ef6450df1babf1, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 22
+    Value: 2
+  - Stat: 17
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 9f0d5101a6852304681248d36354a1b0, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: 1fef20c697c94954d96907f559fb5fdd, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 0239ee6f0ffb5514e83ab8d329124525, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 0.95
+  WeightMultiplier: 1
+  CorePattern: {fileID: 11400000, guid: 9f0d5101a6852304681248d36354a1b0, type: 2}
+  Refined: {fileID: 11400000, guid: b25e319fb3c2dc241a7ede7387d587e7, type: 2}

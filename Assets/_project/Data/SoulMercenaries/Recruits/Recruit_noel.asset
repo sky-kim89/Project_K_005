@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_noel
+  m_EditorClassIdentifier: 
+  Id: noel
+  DisplayName: "\uB178\uC5D8"
+  Template: {fileID: 11400000, guid: 69baddd2b2271b144bed1bb6f07e1595, type: 2}
+  Race: {fileID: 11400000, guid: 7c4eaeaed77cbab45894055079391426, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uCD95\uBCF5\uC0AC"
+  Concept: "\uCD95\uBCF5\uC774 \uC624\uB798 \uBA38\uBB45\uB2C8\uB2E4."
+  Up: 19
+  Down: 16
+  Stats:
+  - Stat: 19
+    Value: 3
+  - Stat: 20
+    Value: 2
+  - Stat: 16
+    Value: -1
+  Growth:
+  - Stat: 19
+    Value: 2
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: d79cdd3c1fae84046a6b661175c5dc2d, type: 2}
+  - {fileID: 11400000, guid: 65b934d8b910635448adbf58d2425205, type: 2}
+  - {fileID: 11400000, guid: 67f05177018448d418231c0847cbdac5, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: eadebe2e0b05ab54f8580ab1ea0c6ea1, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair13#7C7C84
+    Horns: 
+    Armor: ClericRobe
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

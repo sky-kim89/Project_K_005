@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae375e71917f3ba4c8082b59da0a1e80, type: 3}
+  m_Name: TelegraphChiefSweep
+  m_EditorClassIdentifier: 
+  Id: chief_sweep
+  SkillName: "\uAD11\uC804\uC0AC\uC758 \uD729\uC4F8\uAE30"
+  Shape: 1
+  Anchor: 1
+  Size: 3.2
+  Width: 100
+  WindUp: 1
+  Rest: 4
+  TriggerRange: 2.8
+  DamageSchool: 0
+  DamageKind: 1
+  Damage:
+    Flat: 8
+    Terms:
+    - Stat: 2
+      Factor: 1.2
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Knockback: 0.8
+  Status:
+    Kind: 0
+    Chance:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Duration:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    DamagePerSecond:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9
+    Grade: 1
+    GradeBonus:
+      Flat: 0
+      Terms: []
+      Minimum: -1e+9
+      Maximum: 1e+9

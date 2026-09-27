@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulGoblin
+  m_EditorClassIdentifier: 
+  Id: goblin
+  OriginMonster: "\uACE0\uBE14\uB9B0 \uAD81\uC218"
+  Source: {fileID: 11400000, guid: 9ad8123f1a9fecf49886206aa263594b, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 18
+    Value: 2
+  - Stat: 28
+    Value: 2
+  Patterns:
+  - {fileID: 11400000, guid: c460a1d40759edd4fa0fe230bbd81f25, type: 2}
+  - {fileID: 11400000, guid: 2e8b942a5b084e04ca04f1cbb6029672, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: 900672d92ba2fdd408af59a0fa9800c6, type: 2}
+  Passives: []
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 0.95
+  WeightMultiplier: 1
+  CorePattern: {fileID: 11400000, guid: c460a1d40759edd4fa0fe230bbd81f25, type: 2}
+  Refined: {fileID: 11400000, guid: dfb8dc70dd55f134fa0554f21efd921e, type: 2}

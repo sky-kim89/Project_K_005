@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19972297e4283214d9a7c2f23716ee12, type: 3}
+  m_Name: EquipmentCrystalWand
+  m_EditorClassIdentifier: 
+  Id: crystal_wand
+  DisplayName: "\uC218\uC815 \uC644\uB4DC"
+  Kind: "\uC644\uB4DC"
+  Slot: 0
+  TwoHanded: 0
+  WeaponTag: wand
+  BaseWeight: 0.5
+  Material: 5
+  Unique: 0
+  FixedGrade: 3
+  Price: 130
+  ShopTier: 2
+  DropFloor: 2
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: CrystalWand
+    Shield: 
+  Icon: {fileID: 21300000, guid: f55a0e592dcdd0d4388d4b09cdb564d1, type: 3}
+  BasicAttack: {fileID: 11400000, guid: be93bfabd595eb049ba3346500ad6d5a, type: 2}
+  Bonuses:
+  - Stat: 19
+    Value: 1
+  - Stat: 29
+    Value: 10
+  Patterns: []
+  ActiveSkills: []
+  Passives: []

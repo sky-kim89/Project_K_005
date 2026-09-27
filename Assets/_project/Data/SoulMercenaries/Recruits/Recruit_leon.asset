@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_leon
+  m_EditorClassIdentifier: 
+  Id: leon
+  DisplayName: "\uB808\uC628"
+  Template: {fileID: 11400000, guid: 2a23312e9c3673e4fb10d2d73eb6b752, type: 2}
+  Race: {fileID: 0}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uAC80\uC131\uC758 \uC81C\uC790"
+  Concept: "\uBE60\uB974\uACE0 \uC815\uD655\uD55C \uC5F0\uACA9, \uD754\uB4E4\uB9BC
+    \uC5C6\uB294 \uB9C8\uC74C. \uD0C0\uACE0\uB09C \uAC80\uC7AC\uC785\uB2C8\uB2E4."
+  Up: 16
+  Down: 21
+  Stats:
+  - Stat: 16
+    Value: 3
+  - Stat: 18
+    Value: 3
+  - Stat: 20
+    Value: 3
+  - Stat: 17
+    Value: 1
+  Growth:
+  - Stat: 16
+    Value: 2
+  - Stat: 18
+    Value: 1
+  - Stat: 20
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 1017381c8b716cc448ba171362b83fd9, type: 2}
+  - {fileID: 11400000, guid: 4d8e399645150954789748f908513bf4, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: 2df90669a0d8da9438af9281f085c6c1, type: 2}
+  - {fileID: 11400000, guid: 838cc6002142522498d15d35925343d1, type: 2}
+  - {fileID: 11400000, guid: d5038cb3f0015154485406ab67ae2028, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: e54e1ec0799cd0341a30348c63d1131a, type: 2}
+  - {fileID: 11400000, guid: 69c2668289d359c4e94fb666073f70e1, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair3#E6E0C8
+    Horns: 
+    Armor: Samurai
+    Helmet: 
+    Mask: 
+    Cape: Cape#8A1C1C
+    Weapon: 
+    Shield: 

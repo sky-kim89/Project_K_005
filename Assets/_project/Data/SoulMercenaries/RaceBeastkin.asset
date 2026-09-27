@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23abf3fa28858294f8c8de5eaab4e3da, type: 3}
+  m_Name: RaceBeastkin
+  m_EditorClassIdentifier: 
+  Id: "\uC218\uC778"
+  Bonuses:
+  - Stat: 16
+    Value: 1
+  - Stat: 18
+    Value: 1
+  StartingPatterns:
+  - {fileID: 11400000, guid: 0ec79f7fb1a26314780f7505718431bd, type: 2}
+  - {fileID: 11400000, guid: 6ce1e75b9a0a0494188128e74bc89538, type: 2}
+  InnatePassives:
+  - {fileID: 11400000, guid: 8cbdc1b0900bb9f499b7d86a942cc345, type: 2}
+  ForbiddenPatternTags: []
+  GrowthWeights:
+  - Stat: 16
+    Value: 3
+  - Stat: 18
+    Value: 3
+  - Stat: 26
+    Value: 1
+  Height: 1.75
+  Weight: 80
+  Appearance:
+    Body: Werewolf
+    Head: Werewolf
+    Ears: Werewolf
+    Eyes: Werewolf
+    Hair: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Horns: 
+    Cape: 
+    Weapon: 
+    Shield: 
+    Back: 
+    Firearm: 

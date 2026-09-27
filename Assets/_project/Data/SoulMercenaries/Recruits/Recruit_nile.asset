@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_nile
+  m_EditorClassIdentifier: 
+  Id: nile
+  DisplayName: "\uB098\uC77C"
+  Template: {fileID: 11400000, guid: 2c6fa7b3892afbf4995457e6f7b071a7, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uCC99\uD6C4"
+  Concept: "\uC801\uBCF4\uB2E4 \uBA3C\uC800 \uBCF4\uACE0 \uBA3C\uC800 \uC3E9\uB2C8\uB2E4."
+  Up: 18
+  Down: 21
+  Stats:
+  - Stat: 18
+    Value: 3
+  - Stat: 20
+    Value: 2
+  - Stat: 21
+    Value: -1
+  Growth:
+  - Stat: 18
+    Value: 2
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: f9e431770af5afc47a3055ea39b8b2a8, type: 2}
+  - {fileID: 11400000, guid: c0e81f28ed51c9243b522bdaf8733cd0, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: f188edbb958666c4f9e0836e230656af, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair7#4E6E3A
+    Horns: 
+    Armor: Arabian
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

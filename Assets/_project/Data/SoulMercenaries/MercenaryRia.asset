@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a1fc967e7ae4e6468a9a473a2873acf, type: 3}
+  m_Name: MercenaryRia
+  m_EditorClassIdentifier: 
+  Id: ria
+  DisplayName: "\uB9AC\uC544"
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  BaseStats:
+  - Stat: 16
+    Value: 5
+  - Stat: 17
+    Value: 5
+  - Stat: 18
+    Value: 4
+  - Stat: 19
+    Value: 2
+  - Stat: 20
+    Value: 3
+  - Stat: 23
+    Value: 3
+  - Stat: 26
+    Value: 3
+  StartingEquipment:
+  - {fileID: 11400000, guid: 15067d4edd7aa1248a065b6a0179f8c5, type: 2}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair2#8A4836
+    Horns: 
+    Armor: TravelerTunic
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: IronBuckler
+  Job: "\uAC80\uC0AC"
+  Role: 0
+  Passives:
+  - {fileID: 11400000, guid: 58c8ae50437b62d46958a36c18c69da1, type: 2}
+  GrowthWeights:
+  - Stat: 16
+    Value: 2
+  - Stat: 26
+    Value: 2
+  WeakGrowth: 130000001b0000001c000000
+  Patterns:
+  - {fileID: 11400000, guid: 92ca46cd9e7ebc546b2291e8e91c632e, type: 2}
+  - {fileID: 11400000, guid: 2da33966614238148a7231d09e4bf593, type: 2}
+  - {fileID: 11400000, guid: 33089d6745cd79142a111e3b2c6097c5, type: 2}
+  - {fileID: 11400000, guid: 57699bb529db69a4dbf732acbfb73a1b, type: 2}
+  - {fileID: 11400000, guid: 02493f92c05245d4fbe686a14a7f047f, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: fbd87e7c6ad518740b1becad9ce1ab04, type: 2}
+  - {fileID: 11400000, guid: d5038cb3f0015154485406ab67ae2028, type: 2}
+  - {fileID: 11400000, guid: afe2420f841ff33439df4998569aef7b, type: 2}
+  - {fileID: 11400000, guid: 2df90669a0d8da9438af9281f085c6c1, type: 2}

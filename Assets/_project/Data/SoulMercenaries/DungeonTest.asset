@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1fe188f86808c44bb31229ba52bd2d, type: 3}
+  m_Name: DungeonTest
+  m_EditorClassIdentifier: 
+  MapRows: '################
+
+    #..............#
+
+    #...##.........#
+
+    #...##..###....#
+
+    #.......#......#
+
+    #.......#..##..#
+
+    #..##......##..#
+
+    #..##..........#
+
+    #..............#
+
+    ################'
+  PartyStart: {x: 2, y: 7}
+  Exit: {x: 14, y: 1}
+  Exits: []
+  Monsters:
+  - Monster: {fileID: 11400000, guid: 162118ee7103ee3428f9208481b0620a, type: 2}
+    Cell: {x: 6, y: 7}
+    Group: 0
+    Facing: {x: 0, y: 0}
+  - Monster: {fileID: 11400000, guid: d919757c7089e57499821481b9676b71, type: 2}
+    Cell: {x: 10, y: 2}
+    Group: 0
+    Facing: {x: 0, y: 0}
+  - Monster: {fileID: 11400000, guid: 2c878ffae521a7c439102c42c8025028, type: 2}
+    Cell: {x: 13, y: 7}
+    Group: 0
+    Facing: {x: 0, y: 0}
+  Procedural: 0
+  Width: 560
+  Height: 360
+  Halls: 6
+  EmptyRooms: 0.25
+  HiddenChests: 6
+  HiddenStages: 2
+  Springs: 4
+  Campfires: 4
+  Blessings: 3
+  Altars: 3
+  Warps: 5
+  Watchtowers: 3
+  SuspiciousChests: 4
+  FortuneIdols: 3
+  Singles: []
+  Elites: []
+  Packs: []
+  Boss: {fileID: 0}
+  Floors: []
+  LevelPatternPool:
+  - {fileID: 11400000, guid: b1761d09c1da471488be0cdb285a8246, type: 2}
+  - {fileID: 11400000, guid: be93bfabd595eb049ba3346500ad6d5a, type: 2}
+  - {fileID: 11400000, guid: adb9fc7e20528e94887f361315f3bdf3, type: 2}
+  - {fileID: 11400000, guid: 5404c11c84abbe14a94065e4363bf174, type: 2}
+  - {fileID: 11400000, guid: d8dc64d6b28d4eb46877ddf34c90d3e2, type: 2}
+  - {fileID: 11400000, guid: 6ce1e75b9a0a0494188128e74bc89538, type: 2}
+  - {fileID: 11400000, guid: c460a1d40759edd4fa0fe230bbd81f25, type: 2}
+  - {fileID: 11400000, guid: fea607a9c839ff34385b79282a55f86b, type: 2}
+  - {fileID: 11400000, guid: 0ec79f7fb1a26314780f7505718431bd, type: 2}
+  - {fileID: 11400000, guid: b9b095a303c200f4fb0a983738d5a10a, type: 2}
+  - {fileID: 11400000, guid: eb3cf0d962cd75d4c806681c228a4ac0, type: 2}
+  - {fileID: 11400000, guid: 1017381c8b716cc448ba171362b83fd9, type: 2}
+  - {fileID: 11400000, guid: 2e8b942a5b084e04ca04f1cbb6029672, type: 2}
+  - {fileID: 11400000, guid: 7677e878f53377e4db9589d7343271db, type: 2}
+  - {fileID: 11400000, guid: 2b7a0ae4a23f2de4d848b2281ef738ca, type: 2}
+  - {fileID: 11400000, guid: 2da33966614238148a7231d09e4bf593, type: 2}
+  - {fileID: 11400000, guid: 5a1a72eb736b2184a89494e0e07033ed, type: 2}
+  - {fileID: 11400000, guid: 969e908058bec5b4ea92fc460a8cc21a, type: 2}
+  - {fileID: 11400000, guid: 4216b3e6fb84c49449d3dc78c2380226, type: 2}
+  - {fileID: 11400000, guid: 72311cd779c19a641b3531bb3e989a8d, type: 2}
+  - {fileID: 11400000, guid: 42827ee95cb5dca48ac43f72c0dd8da6, type: 2}
+  - {fileID: 11400000, guid: 4f6f2097273aaa049b6ecb353986e66b, type: 2}
+  - {fileID: 11400000, guid: 4d8e399645150954789748f908513bf4, type: 2}
+  - {fileID: 11400000, guid: 33089d6745cd79142a111e3b2c6097c5, type: 2}
+  - {fileID: 11400000, guid: 57699bb529db69a4dbf732acbfb73a1b, type: 2}
+  - {fileID: 11400000, guid: 2c4bd9b024d08424990afbce6ef51c3d, type: 2}
+  - {fileID: 11400000, guid: 170e364e62b555b4389344bf957620c3, type: 2}
+  - {fileID: 11400000, guid: 4a3d77ac7ec442b4eb8a840833c1b82f, type: 2}
+  - {fileID: 11400000, guid: 4d65c1b8a51c3504f813caafe078a436, type: 2}
+  - {fileID: 11400000, guid: 02493f92c05245d4fbe686a14a7f047f, type: 2}
+  GuaranteeFirstSoul: 1
+  BossGatesExit: 1
+  LootTable: []
+  BossLoot: []
+  BossLootCount: 2
+  SkillBooks: []

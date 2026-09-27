@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67deb1c9581b9434bb20a2fa0ee4e38e, type: 3}
+  m_Name: MonsterFrostSlime
+  m_EditorClassIdentifier: 
+  Id: "\uC5BC\uC74C \uC2AC\uB77C\uC784"
+  Stats:
+  - Stat: 17
+    Value: 6
+  - Stat: 16
+    Value: 3
+  - Stat: 18
+    Value: 2
+  - Stat: 23
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 5ec5338b736d554429fefc80e7e69515, type: 2}
+  - {fileID: 11400000, guid: 3f7c4408278b39741be9ed1c2d687090, type: 2}
+  ActiveSkills: []
+  Passives: []
+  Height: 1.1
+  Weight: 60
+  Experience: 8
+  Gold: 5
+  SoulDropChance: 0.02
+  DroppedSoul: {fileID: 11400000, guid: 05a37ac9bb884c74db4dc638341048f2, type: 2}
+  Guardian: 0
+  Elite: 0
+  Evasive: 0
+  Undead: 0
+  Telegraphs: []
+  DisplayName: "\uC5BC\uC74C \uC2AC\uB77C\uC784"
+  UseMonsterSprite: 1
+  MonsterRace: 17
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Horns: 
+    Cape: 
+    Weapon: 
+    Shield: 
+    Back: 
+    Firearm: 
+  Tint: {r: 0.6, g: 0.85, b: 1, a: 1}
+  Portrait: {fileID: -1475925531465963197, guid: c0641e628e7e9164e8cc2ed024df6ce2, type: 3}

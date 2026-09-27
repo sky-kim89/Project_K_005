@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulDarkElfRefined
+  m_EditorClassIdentifier: 
+  Id: dark_elf_refined
+  OriginMonster: "\uB2E4\uD06C\uC5D8\uD504(\uC815\uC81C)"
+  Source: {fileID: 11400000, guid: 6e5738f61ac874b45a91a2e080926a1d, type: 2}
+  Grade: 2
+  CharacteristicStats:
+  - Stat: 28
+    Value: 3
+  - Stat: 18
+    Value: 1.5
+  Patterns:
+  - {fileID: 11400000, guid: 5a1a72eb736b2184a89494e0e07033ed, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: dde8d5000600b0040ad7d56170e2012d, type: 2}
+  - {fileID: 11400000, guid: dc141eaf4bf69144b8254fc1d8e53923, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 24f2af3d829041e4d8c2f673280cb28d, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 0}

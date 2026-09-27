@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19972297e4283214d9a7c2f23716ee12, type: 3}
+  m_Name: EquipmentRustyDagger
+  m_EditorClassIdentifier: 
+  Id: rusty_dagger
+  DisplayName: "\uB179\uC2A8 \uB2E8\uAC80"
+  Kind: "\uB2E8\uAC80"
+  Slot: 0
+  TwoHanded: 0
+  WeaponTag: dagger
+  BaseWeight: 1.2
+  Material: 7
+  Unique: 0
+  FixedGrade: 3
+  Price: 40
+  ShopTier: 1
+  DropFloor: 1
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: RustedShortSword
+    Shield: 
+  Icon: {fileID: 21300000, guid: a54d127387d7f2841bd3695be7683563, type: 3}
+  BasicAttack: {fileID: 11400000, guid: b1761d09c1da471488be0cdb285a8246, type: 2}
+  Bonuses:
+  - Stat: 2
+    Value: 3
+  - Stat: 28
+    Value: 1
+  Patterns: []
+  ActiveSkills: []
+  Passives: []

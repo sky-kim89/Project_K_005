@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulLizard
+  m_EditorClassIdentifier: 
+  Id: lizard
+  OriginMonster: "\uB3C4\uB9C8\uBC40\uC778"
+  Source: {fileID: 11400000, guid: c0e7cd5cbe215d14997a105d6ab7463b, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 18
+    Value: 2
+  - Stat: 26
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 0ec79f7fb1a26314780f7505718431bd, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: d95dbb0a4e28c6c49a72034e5f614e4a, type: 2}
+  - {fileID: 11400000, guid: 9349b6fb3397479409d9a02a6b1911da, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 10a799195f992a04098ecf73f2cd64de, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 11400000, guid: dbb0a89233f11e746abf8d72e2b02721, type: 2}

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_mina
+  m_EditorClassIdentifier: 
+  Id: mina
+  DisplayName: "\uBBF8\uB098"
+  Template: {fileID: 11400000, guid: 5ce10672b5a1acc4ca1f7d9b19bf6775, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 0
+  Founder: 0
+  Title: "\uACFC\uB141 \uC5F0\uC2B5\uC0DD"
+  Concept: "\uACFC\uB141 \uD55C\uAC00\uC6B4\uB370\uB9CC \uBD05\uB2C8\uB2E4."
+  Up: 18
+  Down: 17
+  Stats: []
+  Growth: []
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: 353fe3d7fe4e8874db83f84924815569, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: ea2ff49c74020114bad8dcc12ae9be9e, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair4#7C7C84
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

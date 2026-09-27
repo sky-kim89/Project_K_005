@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a1fc967e7ae4e6468a9a473a2873acf, type: 3}
+  m_Name: MercenaryPriest
+  m_EditorClassIdentifier: 
+  Id: priest
+  DisplayName: "\uB9C8\uB9AC\uC5D8"
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  BaseStats:
+  - Stat: 16
+    Value: 2
+  - Stat: 17
+    Value: 5
+  - Stat: 18
+    Value: 3
+  - Stat: 19
+    Value: 5
+  - Stat: 20
+    Value: 6
+  - Stat: 21
+    Value: 2
+  - Stat: 25
+    Value: 2
+  StartingEquipment:
+  - {fileID: 11400000, guid: c89becb79c89f4d49ba0c39ce8577bf8, type: 2}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair6#E8E0C0
+    Horns: 
+    Armor: TravelerTunic
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  Job: "\uC131\uC9C1\uC790"
+  Role: 3
+  Passives:
+  - {fileID: 11400000, guid: 4a6f028b296e2b3499e627ad65db5e7c, type: 2}
+  - {fileID: 11400000, guid: 08ad541f28dcdd24fbc85b1228947c6b, type: 2}
+  GrowthWeights:
+  - Stat: 20
+    Value: 3
+  - Stat: 19
+    Value: 2
+  - Stat: 25
+    Value: 1
+  WeakGrowth: 1a0000001b0000001c000000
+  Patterns:
+  - {fileID: 11400000, guid: fea607a9c839ff34385b79282a55f86b, type: 2}
+  - {fileID: 11400000, guid: 1cb8c79510e717f4bae227cb77edcc5c, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: d79cdd3c1fae84046a6b661175c5dc2d, type: 2}

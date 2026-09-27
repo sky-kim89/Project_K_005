@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67deb1c9581b9434bb20a2fa0ee4e38e, type: 3}
+  m_Name: MonsterFallenDemigod
+  m_EditorClassIdentifier: 
+  Id: "\uD0C0\uB77D\uD55C \uBC18\uC2E0"
+  Stats:
+  - Stat: 17
+    Value: 140
+  - Stat: 16
+    Value: 16
+  - Stat: 23
+    Value: 10
+  - Stat: 27
+    Value: 8
+  - Stat: 20
+    Value: 12
+  - Stat: 49
+    Value: 2.5
+  Patterns:
+  - {fileID: 11400000, guid: be93bfabd595eb049ba3346500ad6d5a, type: 2}
+  - {fileID: 11400000, guid: eb3cf0d962cd75d4c806681c228a4ac0, type: 2}
+  - {fileID: 11400000, guid: 3f7c4408278b39741be9ed1c2d687090, type: 2}
+  ActiveSkills:
+  - {fileID: 11400000, guid: eef57a2617702024598b73a5398f3b13, type: 2}
+  Passives: []
+  Height: 2.8
+  Weight: 240
+  Experience: 30
+  Gold: 40
+  SoulDropChance: 0.4
+  DroppedSoul: {fileID: 11400000, guid: 80a85c6549c7ebc48a57c67f935291d5, type: 2}
+  Guardian: 1
+  Elite: 0
+  Evasive: 0
+  Undead: 0
+  Telegraphs:
+  - {fileID: 11400000, guid: c2ddc7948e3b9464fa4339dd6dde6f0a, type: 2}
+  - {fileID: 11400000, guid: 8b5b30e65089d58458dfa228bedc3cba, type: 2}
+  - {fileID: 11400000, guid: 2be31bea5ba85e040bf001d24b85761a, type: 2}
+  - {fileID: 11400000, guid: b94f6c123c8de9349aa029583d6dd03e, type: 2}
+  DisplayName: "\uD0C0\uB77D\uD55C \uBC18\uC2E0"
+  UseMonsterSprite: 0
+  MonsterRace: 16
+  Appearance:
+    Body: Demigod
+    Head: Demigod
+    Ears: 
+    Eyes: Demigod
+    Hair: 
+    Armor: DemigodArmour
+    Helmet: 
+    Mask: 
+    Horns: 
+    Cape: 
+    Weapon: GiantSword
+    Shield: 
+    Back: 
+    Firearm: 
+  Tint: {r: 0.85, g: 0.75, b: 1, a: 1}
+  Portrait: {fileID: 1571289182832696185, guid: c0641e628e7e9164e8cc2ed024df6ce2, type: 3}

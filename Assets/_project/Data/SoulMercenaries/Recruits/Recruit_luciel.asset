@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_luciel
+  m_EditorClassIdentifier: 
+  Id: luciel
+  DisplayName: "\uB8E8\uC2DC\uC5D8"
+  Template: {fileID: 11400000, guid: 69baddd2b2271b144bed1bb6f07e1595, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uB300\uC8FC\uAD50"
+  Concept: "\uADF8\uC758 \uAE30\uB3C4 \uC55E\uC5D0 \uC8FD\uC74C\uB3C4 \uBB3C\uB7EC\uC12D\uB2C8\uB2E4."
+  Up: 20
+  Down: 16
+  Stats:
+  - Stat: 20
+    Value: 5
+  - Stat: 19
+    Value: 4
+  - Stat: 17
+    Value: 1
+  Growth:
+  - Stat: 20
+    Value: 2
+  - Stat: 19
+    Value: 1
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: d79cdd3c1fae84046a6b661175c5dc2d, type: 2}
+  - {fileID: 11400000, guid: 4c3a12f66506eb54eba76cac51b8b652, type: 2}
+  - {fileID: 11400000, guid: 65b934d8b910635448adbf58d2425205, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: c69ec9a17921bb846a564b0bfd9c0c7a, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair7#A5672F
+    Horns: 
+    Armor: DruidRobe
+    Helmet: 
+    Mask: 
+    Cape: Cape#F0E8D0
+    Weapon: 
+    Shield: 

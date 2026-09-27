@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_magda
+  m_EditorClassIdentifier: 
+  Id: magda
+  DisplayName: "\uB9C8\uADF8\uB2E4"
+  Template: {fileID: 11400000, guid: 69baddd2b2271b144bed1bb6f07e1595, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uD574\uB3C5\uC0AC"
+  Concept: "\uB3C5\uC740 \uBAA8\uB450 \uADF8\uB140\uC758 \uC190\uC5D0\uC11C \uD480\uB9BD\uB2C8\uB2E4."
+  Up: 20
+  Down: 16
+  Stats:
+  - Stat: 20
+    Value: 3
+  - Stat: 17
+    Value: 2
+  - Stat: 16
+    Value: -1
+  Growth:
+  - Stat: 20
+    Value: 2
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: d79cdd3c1fae84046a6b661175c5dc2d, type: 2}
+  - {fileID: 11400000, guid: 6b35070ac8c292645b4fd0e4d2ebe40c, type: 2}
+  - {fileID: 11400000, guid: 2a326444dc3188144beccc930121e7a4, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: d48eaaabd70ef9e4faaf995dfa2805b4, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair14#8A4836
+    Horns: 
+    Armor: MonkRobe
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

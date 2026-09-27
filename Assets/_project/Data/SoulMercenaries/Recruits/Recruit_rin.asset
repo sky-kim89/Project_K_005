@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_rin
+  m_EditorClassIdentifier: 
+  Id: rin
+  DisplayName: "\uB9B0"
+  Template: {fileID: 11400000, guid: 2c6fa7b3892afbf4995457e6f7b071a7, type: 2}
+  Race: {fileID: 0}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uBA85\uC0AC\uC218"
+  Concept: "\uD65C\uB3C4 \uC3E0 \uC904 \uC544\uB294 \uAE38\uC7A1\uC774. \uC6B4\uC740
+    \uC870\uAE08 \uB35C\uD569\uB2C8\uB2E4."
+  Up: 18
+  Down: 20
+  Stats:
+  - Stat: 18
+    Value: 4
+  - Stat: 20
+    Value: 1
+  - Stat: 28
+    Value: 2
+  - Stat: 21
+    Value: -1
+  Growth:
+  - Stat: 18
+    Value: 2
+  Patterns:
+  - {fileID: 11400000, guid: 2e8b942a5b084e04ca04f1cbb6029672, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: f9e431770af5afc47a3055ea39b8b2a8, type: 2}
+  - {fileID: 11400000, guid: c0e81f28ed51c9243b522bdaf8733cd0, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 776a10950589f5a4c9e53866940c713c, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair9#2B2522
+    Horns: 
+    Armor: MusketeerTunic
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

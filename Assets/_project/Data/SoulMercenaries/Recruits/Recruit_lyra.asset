@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_lyra
+  m_EditorClassIdentifier: 
+  Id: lyra
+  DisplayName: "\uB9AC\uB77C"
+  Template: {fileID: 11400000, guid: 5ce10672b5a1acc4ca1f7d9b19bf6775, type: 2}
+  Race: {fileID: 11400000, guid: 7c4eaeaed77cbab45894055079391426, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uC18D\uC0AC\uC218"
+  Concept: "\uC2DC\uC704\uB97C \uB2F9\uAE30\uB294 \uC190\uC774 \uBCF4\uC774\uC9C0
+    \uC54A\uC2B5\uB2C8\uB2E4."
+  Up: 18
+  Down: 16
+  Stats:
+  - Stat: 18
+    Value: 3
+  - Stat: 28
+    Value: 2
+  - Stat: 16
+    Value: -1
+  Growth:
+  - Stat: 18
+    Value: 2
+  Patterns:
+  - {fileID: 11400000, guid: 2e8b942a5b084e04ca04f1cbb6029672, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: 353fe3d7fe4e8874db83f84924815569, type: 2}
+  - {fileID: 11400000, guid: 560e217e4a8bbe64d9fef23d952a6899, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: ae5c89c84ae1c5348b656818177f68af, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair8#8A4836
+    Horns: 
+    Armor: ShinobuTunic
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

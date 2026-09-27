@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67deb1c9581b9434bb20a2fa0ee4e38e, type: 3}
+  m_Name: MonsterPlagueSlime
+  m_EditorClassIdentifier: 
+  Id: "\uC5ED\uBCD1 \uC2AC\uB77C\uC784"
+  Stats:
+  - Stat: 17
+    Value: 8
+  - Stat: 16
+    Value: 3
+  - Stat: 18
+    Value: 2
+  - Stat: 23
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 9f0d5101a6852304681248d36354a1b0, type: 2}
+  - {fileID: 11400000, guid: 3f7c4408278b39741be9ed1c2d687090, type: 2}
+  ActiveSkills: []
+  Passives: []
+  Height: 1.2
+  Weight: 70
+  Experience: 8
+  Gold: 5
+  SoulDropChance: 0.02
+  DroppedSoul: {fileID: 11400000, guid: d4e4fcfe90f20c14f80516f286ad863d, type: 2}
+  Guardian: 0
+  Elite: 0
+  Evasive: 0
+  Undead: 0
+  Telegraphs: []
+  DisplayName: "\uC5ED\uBCD1 \uC2AC\uB77C\uC784"
+  UseMonsterSprite: 1
+  MonsterRace: 17
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Horns: 
+    Cape: 
+    Weapon: 
+    Shield: 
+    Back: 
+    Firearm: 
+  Tint: {r: 0.78, g: 0.55, b: 0.95, a: 1}
+  Portrait: {fileID: 840745572029331401, guid: c0641e628e7e9164e8cc2ed024df6ce2, type: 3}

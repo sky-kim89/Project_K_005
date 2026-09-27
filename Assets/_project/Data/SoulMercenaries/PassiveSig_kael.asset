@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2059dbcade6e660458581368c2f38641, type: 3}
+  m_Name: PassiveSig_kael
+  m_EditorClassIdentifier: 
+  SkillName: "\uBB34\uB9AC\uC758 \uC8FC\uC778"
+  Description: "\uCD5C\uB300 MP\uAC00 20 \uC624\uB974\uACE0 MP \uD68C\uBCF5 \uC18D\uB3C4\uAC00
+    30% \uBE68\uB77C\uC9D1\uB2C8\uB2E4."
+  Icon: {fileID: 21300000, guid: 33cb871da2d2db64b91e97a77605f2e0, type: 3}
+  SoulId: sig_kael
+  SoulEvent: 0
+  Every: 1
+  AlwaysBonuses:
+  - Stat: 29
+    Value: 20
+  - Stat: 104
+    Value: 0.3
+  Damage:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Stamina: 0
+  MapTraits: 0

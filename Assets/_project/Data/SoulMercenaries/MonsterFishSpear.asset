@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67deb1c9581b9434bb20a2fa0ee4e38e, type: 3}
+  m_Name: MonsterFishSpear
+  m_EditorClassIdentifier: 
+  Id: "\uC5B4\uC778 \uCC3D\uBCD1"
+  Stats:
+  - Stat: 17
+    Value: 7
+  - Stat: 16
+    Value: 5
+  - Stat: 18
+    Value: 3
+  - Stat: 23
+    Value: 2
+  Patterns:
+  - {fileID: 11400000, guid: b1761d09c1da471488be0cdb285a8246, type: 2}
+  - {fileID: 11400000, guid: 3f7c4408278b39741be9ed1c2d687090, type: 2}
+  ActiveSkills: []
+  Passives: []
+  Height: 1.6
+  Weight: 75
+  Experience: 8
+  Gold: 5
+  SoulDropChance: 0.02
+  DroppedSoul: {fileID: 11400000, guid: dbdbf5ac7d8c3fe479b456090b7e01fd, type: 2}
+  Guardian: 0
+  Elite: 0
+  Evasive: 0
+  Undead: 0
+  Telegraphs: []
+  DisplayName: "\uC5B4\uC778 \uCC3D\uBCD1"
+  UseMonsterSprite: 0
+  MonsterRace: 16
+  Appearance:
+    Body: Merman
+    Head: Merman
+    Ears: Merman
+    Eyes: Merman
+    Hair: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Horns: 
+    Cape: 
+    Weapon: Bident
+    Shield: 
+    Back: 
+    Firearm: 
+  Tint: {r: 1, g: 1, b: 1, a: 1}
+  Portrait: {fileID: -6760505032864077135, guid: c0641e628e7e9164e8cc2ed024df6ce2, type: 3}

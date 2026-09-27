@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_rosa
+  m_EditorClassIdentifier: 
+  Id: rosa
+  DisplayName: "\uB85C\uC0AC"
+  Template: {fileID: 11400000, guid: 69baddd2b2271b144bed1bb6f07e1595, type: 2}
+  Race: {fileID: 0}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uCE58\uC720\uC0AC"
+  Concept: "\uCE58\uC720\uC5D0 \uC804\uB150\uD569\uB2C8\uB2E4. \uC2F8\uC6C0\uC740
+    \uBA40\uB9AC\uD569\uB2C8\uB2E4."
+  Up: 19
+  Down: 18
+  Stats:
+  - Stat: 20
+    Value: 3
+  - Stat: 19
+    Value: 2
+  - Stat: 16
+    Value: -1
+  Growth:
+  - Stat: 20
+    Value: 2
+  Patterns:
+  - {fileID: 11400000, guid: 42827ee95cb5dca48ac43f72c0dd8da6, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: d79cdd3c1fae84046a6b661175c5dc2d, type: 2}
+  - {fileID: 11400000, guid: 2a326444dc3188144beccc930121e7a4, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: afaae00b4385f234d9ebb16703c3b18e, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair12#E07090
+    Horns: 
+    Armor: ClericRobe
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

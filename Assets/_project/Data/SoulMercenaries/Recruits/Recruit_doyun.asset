@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_doyun
+  m_EditorClassIdentifier: 
+  Id: doyun
+  DisplayName: "\uB3C4\uC724"
+  Template: {fileID: 11400000, guid: d63dc6af758ef7148951ff90d15bef71, type: 2}
+  Race: {fileID: 0}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uBC29\uD328 \uC218\uB3C4\uC0AC"
+  Concept: "\uB3D9\uB8CC\uB97C \uAC00\uB9AC\uACE0 \uBD81\uB3CB\uC2B5\uB2C8\uB2E4.
+    \uACF5\uACA9\uC740 \uC57D\uD569\uB2C8\uB2E4."
+  Up: 17
+  Down: 18
+  Stats:
+  - Stat: 20
+    Value: 3
+  - Stat: 17
+    Value: 2
+  - Stat: 16
+    Value: -1
+  Growth:
+  - Stat: 20
+    Value: 2
+  Patterns:
+  - {fileID: 11400000, guid: b9b095a303c200f4fb0a983738d5a10a, type: 2}
+  - {fileID: 11400000, guid: 72311cd779c19a641b3531bb3e989a8d, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: afa104dd7f61d4d4eb4f53b492990706, type: 2}
+  - {fileID: 11400000, guid: afe2420f841ff33439df4998569aef7b, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 4fef3cc62a23aa147962700085a10ab9, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair3#5D2C28
+    Horns: 
+    Armor: MonkRobe
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

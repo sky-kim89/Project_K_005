@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2059dbcade6e660458581368c2f38641, type: 3}
+  m_Name: PassiveSig_theron
+  m_EditorClassIdentifier: 
+  SkillName: "\uAC80\uACFC \uC8FC\uBB38"
+  Description: "\uC9C0\uD321\uC774\uAC00 \uC544\uB2CC \uBB34\uAE30\uB97C \uB4E4\uC5B4\uB3C4
+    \uB9C8\uBC95 \uD6A8\uACFC\uAC00 40% \uB35C \uC904\uC5B4\uB4ED\uB2C8\uB2E4."
+  Icon: {fileID: 21300000, guid: 5ccb6e68dfaf7764596a22345e0e23d2, type: 3}
+  SoulId: sig_theron
+  SoulEvent: 0
+  Every: 1
+  AlwaysBonuses:
+  - Stat: 96
+    Value: 0.4
+  Damage:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Heal:
+    Flat: 0
+    Terms: []
+    Minimum: -1e+9
+    Maximum: 1e+9
+  Stamina: 0
+  MapTraits: 0

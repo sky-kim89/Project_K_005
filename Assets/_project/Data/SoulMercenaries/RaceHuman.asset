@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23abf3fa28858294f8c8de5eaab4e3da, type: 3}
+  m_Name: RaceHuman
+  m_EditorClassIdentifier: 
+  Id: "\uC778\uAC04"
+  Bonuses: []
+  StartingPatterns:
+  - {fileID: 11400000, guid: a2ed98eede175424f8ac81710a84c70c, type: 2}
+  - {fileID: 11400000, guid: 3f7c4408278b39741be9ed1c2d687090, type: 2}
+  InnatePassives:
+  - {fileID: 11400000, guid: f7688da33e2756646a45d1a9f9a6b29a, type: 2}
+  ForbiddenPatternTags: []
+  GrowthWeights: []
+  Height: 1.7
+  Weight: 70
+  Appearance:
+    Body: Human#F6CA9F
+    Head: Human#F6CA9F
+    Ears: Human#F6CA9F
+    Eyes: Human
+    Hair: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Horns: 
+    Cape: 
+    Weapon: 
+    Shield: 
+    Back: 
+    Firearm: 

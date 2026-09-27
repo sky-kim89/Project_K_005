@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67deb1c9581b9434bb20a2fa0ee4e38e, type: 3}
+  m_Name: MonsterFrogShooter
+  m_EditorClassIdentifier: 
+  Id: "\uAC1C\uAD6C\uB9AC\uC778 \uC0AC\uB0E5\uAFBC"
+  Stats:
+  - Stat: 17
+    Value: 4
+  - Stat: 16
+    Value: 3
+  - Stat: 18
+    Value: 5
+  - Stat: 28
+    Value: 3
+  Patterns:
+  - {fileID: 11400000, guid: c460a1d40759edd4fa0fe230bbd81f25, type: 2}
+  - {fileID: 11400000, guid: 5404c11c84abbe14a94065e4363bf174, type: 2}
+  - {fileID: 11400000, guid: fea607a9c839ff34385b79282a55f86b, type: 2}
+  ActiveSkills: []
+  Passives: []
+  Height: 1.25
+  Weight: 50
+  Experience: 8
+  Gold: 5
+  SoulDropChance: 0.02
+  DroppedSoul: {fileID: 11400000, guid: 36c15f13ca38917459208756094401f7, type: 2}
+  Guardian: 0
+  Elite: 0
+  Evasive: 1
+  Undead: 0
+  Telegraphs: []
+  DisplayName: "\uAC1C\uAD6C\uB9AC\uC778 \uC0AC\uB0E5\uAFBC"
+  UseMonsterSprite: 0
+  MonsterRace: 16
+  Appearance:
+    Body: Froggy
+    Head: Froggy
+    Ears: 
+    Eyes: Froggy
+    Hair: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Horns: 
+    Cape: 
+    Weapon: ShortBow
+    Shield: 
+    Back: 
+    Firearm: 
+  Tint: {r: 1, g: 1, b: 1, a: 1}
+  Portrait: {fileID: 7245378320653319098, guid: c0641e628e7e9164e8cc2ed024df6ce2, type: 3}

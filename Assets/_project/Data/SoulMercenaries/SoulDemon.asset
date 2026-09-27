@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulDemon
+  m_EditorClassIdentifier: 
+  Id: demon
+  OriginMonster: "\uC545\uB9C8"
+  Source: {fileID: 11400000, guid: 2b2e561b31462514b9f0809ad59d493d, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 16
+    Value: 3
+  Patterns: []
+  ActiveSkills:
+  - {fileID: 11400000, guid: dc9d9f815750fdf40985aa0f860357be, type: 2}
+  - {fileID: 11400000, guid: cda8c9e43aa54ac458afd75497e4a995, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: fd4d4934d1636f748898996779d10470, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1
+  WeightMultiplier: 1
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 11400000, guid: 78e59db0e48f3ef4c91050aa379cd921, type: 2}

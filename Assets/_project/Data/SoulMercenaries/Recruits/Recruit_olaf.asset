@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_olaf
+  m_EditorClassIdentifier: 
+  Id: olaf
+  DisplayName: "\uC62C\uB77C\uD504"
+  Template: {fileID: 11400000, guid: d63dc6af758ef7148951ff90d15bef71, type: 2}
+  Race: {fileID: 11400000, guid: 4d72c16d2aa18cc42867cf8eb6602758, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uB3CC\uACA9 \uBC29\uD328"
+  Concept: "\uBC29\uD328\uC9F8 \uB4E4\uC774\uBC1B\uC544 \uC4F0\uB7EC\uB728\uB9BD\uB2C8\uB2E4."
+  Up: 16
+  Down: 20
+  Stats:
+  - Stat: 16
+    Value: 3
+  - Stat: 17
+    Value: 2
+  - Stat: 20
+    Value: -1
+  Growth:
+  - Stat: 16
+    Value: 2
+  Patterns:
+  - {fileID: 11400000, guid: adb9fc7e20528e94887f361315f3bdf3, type: 2}
+  - {fileID: 11400000, guid: 40f1c2ecbc06b224b84b8fddd535340c, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: afa104dd7f61d4d4eb4f53b492990706, type: 2}
+  - {fileID: 11400000, guid: 2df90669a0d8da9438af9281f085c6c1, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 42f5ddcbe96f81e4fa56b671eb3a5ee5, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair1#D8B25A
+    Horns: 
+    Armor: Spartan
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

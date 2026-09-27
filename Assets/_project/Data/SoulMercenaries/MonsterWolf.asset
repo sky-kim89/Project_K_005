@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67deb1c9581b9434bb20a2fa0ee4e38e, type: 3}
+  m_Name: MonsterWolf
+  m_EditorClassIdentifier: 
+  Id: "\uADF8\uB9BC\uC790 \uB291\uB300"
+  Stats:
+  - Stat: 17
+    Value: 4
+  - Stat: 16
+    Value: 6
+  Patterns:
+  - {fileID: 11400000, guid: b1761d09c1da471488be0cdb285a8246, type: 2}
+  - {fileID: 11400000, guid: 3f7c4408278b39741be9ed1c2d687090, type: 2}
+  ActiveSkills: []
+  Passives: []
+  Height: 1.4
+  Weight: 55
+  Experience: 8
+  Gold: 5
+  SoulDropChance: 0.02
+  DroppedSoul: {fileID: 11400000, guid: d13766af3876883428dd28816375411c, type: 2}
+  Guardian: 0
+  Elite: 0
+  Evasive: 1
+  Undead: 0
+  Telegraphs: []
+  DisplayName: "\uADF8\uB9BC\uC790 \uB291\uB300"
+  UseMonsterSprite: 1
+  MonsterRace: 19
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Horns: 
+    Cape: 
+    Weapon: 
+    Shield: 
+    Back: 
+    Firearm: 
+  Tint: {r: 0.55, g: 0.55, b: 0.72, a: 1}
+  Portrait: {fileID: 6521877049092347118, guid: c0641e628e7e9164e8cc2ed024df6ce2, type: 3}

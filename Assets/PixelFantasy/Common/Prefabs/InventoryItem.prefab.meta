@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b442eab8f3420e545bdff721014e9757
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250116
+  packageName: Pixel Hero Maker
+  packageVersion: 4.0
+  assetPath: Assets/PixelFantasy/Common/Prefabs/InventoryItem.prefab
+  uploadId: 936606

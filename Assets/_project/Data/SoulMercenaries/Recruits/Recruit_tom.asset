@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_tom
+  m_EditorClassIdentifier: 
+  Id: tom
+  DisplayName: "\uD1B0"
+  Template: {fileID: 11400000, guid: 69baddd2b2271b144bed1bb6f07e1595, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: -80
+  Rarity: 0
+  Founder: 0
+  Title: "\uD0C1\uBC1C\uC2B9"
+  Concept: "\uBCF4\uC218 \uB300\uC2E0 \uD55C \uB07C \uBC25\uC774\uBA74 \uB429\uB2C8\uB2E4.
+    \uACE0\uC6A9\uBE44\uAC00 \uC309\uB2C8\uB2E4."
+  Up: 17
+  Down: 21
+  Stats: []
+  Growth: []
+  Patterns: []
+  Actives:
+  - {fileID: 11400000, guid: d79cdd3c1fae84046a6b661175c5dc2d, type: 2}
+  - {fileID: 11400000, guid: 6b35070ac8c292645b4fd0e4d2ebe40c, type: 2}
+  Passives: []
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair9#7C7C84
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

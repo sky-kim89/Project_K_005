@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_seraphin
+  m_EditorClassIdentifier: 
+  Id: seraphin
+  DisplayName: "\uC138\uB77C\uD540"
+  Template: {fileID: 11400000, guid: 69baddd2b2271b144bed1bb6f07e1595, type: 2}
+  Race: {fileID: 11400000, guid: 67c96e43c50d5ff40ad4498525063ff8, type: 2}
+  PriceShift: 0
+  Rarity: 1
+  Founder: 0
+  Title: "\uC804\uD22C \uC0AC\uC81C"
+  Concept: "\uCCA0\uD1F4\uB85C \uB54C\uB9AC\uACE0 \uAE30\uB3C4\uB85C \uAC10\uC309\uB2C8\uB2E4."
+  Up: 16
+  Down: 19
+  Stats:
+  - Stat: 16
+    Value: 3
+  - Stat: 17
+    Value: 2
+  - Stat: 19
+    Value: -1
+  Growth:
+  - Stat: 16
+    Value: 1
+  - Stat: 17
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: be93bfabd595eb049ba3346500ad6d5a, type: 2}
+  - {fileID: 11400000, guid: 02493f92c05245d4fbe686a14a7f047f, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: d79cdd3c1fae84046a6b661175c5dc2d, type: 2}
+  - {fileID: 11400000, guid: ffa5efe1ec0ae6348ab8fb99a995e1c9, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: aea59fb86e8f54140a2687ef16221816, type: 2}
+  Frontline: 1
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair12#2B2522
+    Horns: 
+    Armor: Priest
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 

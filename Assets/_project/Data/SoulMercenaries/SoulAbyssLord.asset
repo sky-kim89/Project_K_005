@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aadbafc5825f9e49915df67c981ef9c, type: 3}
+  m_Name: SoulAbyssLord
+  m_EditorClassIdentifier: 
+  Id: abyss_lord
+  OriginMonster: "\uC2EC\uC5F0\uC758 \uAD70\uC8FC"
+  Source: {fileID: 11400000, guid: dc338641b9945be4580acc8161a5ae22, type: 2}
+  Grade: 1
+  CharacteristicStats:
+  - Stat: 16
+    Value: 4
+  - Stat: 20
+    Value: 3
+  Patterns: []
+  ActiveSkills:
+  - {fileID: 11400000, guid: 5afdb75e2ae76ea42b69d8cdcc0e23d6, type: 2}
+  - {fileID: 11400000, guid: 46fee58c527f8674a947bfc7d27f3ffe, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: 7db0f6a48f173cb47a617c8ac4c1fc3d, type: 2}
+  Appearance:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: 
+    Horns: 
+    Armor: 
+    Helmet: 
+    Mask: 
+    Cape: 
+    Weapon: 
+    Shield: 
+  HeightMultiplier: 1.1
+  WeightMultiplier: 1.2
+  CorePattern: {fileID: 0}
+  Refined: {fileID: 11400000, guid: 863e9c8b6490feb4c87cedd95d57083e, type: 2}

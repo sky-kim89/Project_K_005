@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f158035f3a1ffd1499f7b14b93998486, type: 3}
+  m_Name: Recruit_kin
+  m_EditorClassIdentifier: 
+  Id: kin
+  DisplayName: "\uD0A8"
+  Template: {fileID: 11400000, guid: b921e6142311f244290163c94e1e24bb, type: 2}
+  Race: {fileID: 11400000, guid: 8adb698eb1918454887fa5719c2fdbb6, type: 2}
+  PriceShift: 0
+  Rarity: 2
+  Founder: 0
+  Title: "\uD3ED\uD48D\uBC1C\uD1B1"
+  Concept: "\uB208\uC73C\uB85C \uB530\uB77C\uAC08 \uC218 \uC5C6\uB294 \uC5F0\uD0C0."
+  Up: 18
+  Down: 20
+  Stats:
+  - Stat: 18
+    Value: 5
+  - Stat: 16
+    Value: 3
+  - Stat: 21
+    Value: 2
+  Growth:
+  - Stat: 18
+    Value: 2
+  - Stat: 16
+    Value: 1
+  Patterns:
+  - {fileID: 11400000, guid: 581fe5ea1f73abb4ea2985aabf5232d4, type: 2}
+  Actives:
+  - {fileID: 11400000, guid: 3b320e7119fc33c49896531095b2c019, type: 2}
+  - {fileID: 11400000, guid: 2df90669a0d8da9438af9281f085c6c1, type: 2}
+  - {fileID: 11400000, guid: c23d5dd850405a7479ae5a363e15a6c4, type: 2}
+  Passives:
+  - {fileID: 11400000, guid: b0e03a4574f397840a0a0ca91e12b656, type: 2}
+  Frontline: 0
+  Weapon: {fileID: 0}
+  Look:
+    Body: 
+    Head: 
+    Ears: 
+    Eyes: 
+    Hair: Hair10#E6E0C8
+    Horns: 
+    Armor: Squaw
+    Helmet: 
+    Mask: 
+    Cape: Cape#1A1A1A
+    Weapon: 
+    Shield: 
